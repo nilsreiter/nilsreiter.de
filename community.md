@@ -13,7 +13,7 @@ I am initiator of a group that wants to establish shared tasks in the Digital Hu
 
 ### LaTeCH
 
-- - [Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/latech-clfl-2018/) (organizer, with Beatrice Alex, Stefania Degaetano-Ortlieb, Anna Feldman, Anna Kazantseva and Stan Szpakowicz), Vancouver, Canada, August 25, 2018
+- [Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/latech-clfl-2018/) (organizer, with Beatrice Alex, Stefania Degaetano-Ortlieb, Anna Feldman, Anna Kazantseva and Stan Szpakowicz), Vancouver, Canada, August 25, 2018
 - [Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/latech-clfl-2017/) (organizer, with Beatrice Alex, Stefania Degaetano-Ortlieb, Anna Feldman, Anna Kazantseva and Stan Szpakowicz), Vancouver, Canada, August 4, 2017
 - [10th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities](https://sighum.wordpress.com/events/latech-2016/) (organizer, with Beatrice Alex and Kalliopi A. Zervanou), Humboldt University, Berlin, Germany, August 11, 2016.
 - [9th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities](https://sighum.wordpress.com/events/latech-2015/) (local organiser), Beijing University, July 30, 2015.
