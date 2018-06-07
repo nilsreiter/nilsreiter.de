@@ -24,4 +24,3 @@ deploy:
   script: rsync -r --quiet --delete-after _site/* $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
   on:
     branch: master
-before_install: 
