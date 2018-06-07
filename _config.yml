@@ -1,6 +1,11 @@
 # Blog settings
 permalink: /blog/:title
 
+title: nilsreiter.de
+author:
+  name: Nils Reiter
+  email: nils.reiter@ims.uni-stuttgart.de
+
 
 # File management
 include: [".htaccess"]
