@@ -1,3 +1,14 @@
+- title: "Reflected Text Analysis: Computational Linguistics Meets Digital Humanities"
+  venue:
+    label: DH-Kolloquium Cologne
+    link: https://dhc.hypotheses.org/programm-2018
+  institution:
+    name: Institut für Digital Humanities, Cologne University
+    city: Cologne
+    link: http://dh.uni-koeln.de
+  date: 2018-06-07
+  with:
+    - Sarah Schulz
 - title: QuaDramA - Quantitative Drama Analytics
   venue:
     label: Workshop of the DFG project "Interaktionale Sprache bei Andreas Gryphius"
