@@ -3,9 +3,6 @@ layout: page
 title: Talks
 ---
 
-* TOC
-{:toc}
-
 ## Invited Talks
 
 {% assign talks = site.data.talks | group_by_exp: "item", "item.date | date: '%Y'" | sort: "item" %}
