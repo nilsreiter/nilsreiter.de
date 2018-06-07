@@ -54,7 +54,17 @@ div.details {
 p {
 	font-size: 1em;
 	line-height: 150%;
+	img {
+		display:inline-block;
+		max-width:200px;
+		max-height:150px;
+		margin-bottom:10px;
+		margin-right:10px;
+		float:left;
+	}
 }
+
+
 a {
   color: $color-link;
   text-decoration: none;
@@ -79,7 +89,7 @@ code {
 	display:block;
 }
 
-ul {
+ul.menu {
 	list-style: none;
 	li {
 		padding: 5px;
@@ -87,8 +97,14 @@ ul {
 		@media screen and (max-width: $br) {
 			padding: 10px 0 10px 0;
 		}
+		a {
+			font-size:0.9em;
+		}
 	}
 }
+
+
+
 blockquote {
   border-left: 2px solid $color-black;
   padding-left: 15px;
