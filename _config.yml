@@ -1,5 +1,6 @@
 # Blog settings
 permalink: /blog/:title
+baseurl: "http://nilsreiter.de"
 
 title: nilsreiter.de
 author:
