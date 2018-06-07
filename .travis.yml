@@ -24,3 +24,4 @@ deploy:
   script: rsync -r --quiet --delete-after _site/* $DEPLOY_USER@$DEPLOY_HOST:beta
   on:
     branch: master
+    branch: draft
