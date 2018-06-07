@@ -1,3 +1,12 @@
+- title: QuaDramA - Quantitative Drama Analytics
+  venue:
+    label: Workshop of the DFG project "Interaktionale Sprache bei Andreas Gryphius"
+    link: http://gryphius.sprache-interaktion.de/
+  institution:
+    name: University Duisburg-Essen
+    city: Essen
+    link: https://www.uni-due.de/
+  date: 2018-04-12
 - title: Coreference Annotations in QuaDramA
   venue:
     label: HermA Project
