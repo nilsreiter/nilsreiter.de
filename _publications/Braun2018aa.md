@@ -8,6 +8,9 @@ author:
 year: 2018
 journal: Zeitschrift für Literaturwissenschaft und Linguistik
 lang: de
+volume: 48
+issue: 1
+pages: 83-103
 month: 1
 publisher: Springer 
 address: Berlin/Heidelberg, Germany 
