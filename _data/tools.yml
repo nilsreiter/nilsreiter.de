@@ -7,6 +7,7 @@
   screenshot: /assets/img/corefannotator1.png
   language: java
   platform: desktop
+  citation: Roesiger2018aa
 - title: DramaAnalysis
   license: apache2
   url: https://github.com/quadrama/DramaAnalysis
@@ -14,6 +15,12 @@
   doi: 10.5281/zenodo.597509
   language: r
   description: "This R-package is developed in the context of the [QuaDramA](https://quadrama.github.io) project and is a collection of frequently used functions for the analysis of dramatic texts. It takes texts as input that are formatted in a CSV-like format (and that are produced by DramaNLP)."
+- title: SimpleXmiViewer
+  url: http://nilsreiter.github.io/SimpleXmiViewer/
+  github: nilsreiter/SimpleXmiViewer
+  description: "A very simple viewer for XMI files, which is an extension and re-packaging of the UIMA Annotation Viewer. On Mac OS X, it nicely integrates with Finder.app, allowing to open and inspect XMI files with a double click or open on the command line."
+  language: java
+  platform: desktop
 - title: TreeAnno
   license: apache2
   url: https://github.com/nilsreiter/treeanno
