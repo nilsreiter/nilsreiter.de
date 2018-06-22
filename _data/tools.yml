@@ -1,0 +1,34 @@
+- title: CorefAnnotator
+  license: apache2
+  url: https://github.com/nilsreiter/CorefAnnotator
+  github: nilsreiter/CorefAnnotator
+  doi: 10.5281/zenodo.1228105
+  description: "CorefAnnotator is a tool for annotating coreference in texts. It has been developed to be able to cope with long texts with many different chains. The core idea is not to annotate binary relations between mentions (e.g., cataphoric), but to consider all mentions that co-refer to form an equivalence set. Consequently, the tool displays a list of entities on the right and allows free assignment of text spans to these entities."
+  screenshot: /assets/img/corefannotator1.png
+  language: java
+  platform: desktop
+- title: DramaAnalysis
+  license: apache2
+  url: https://github.com/quadrama/DramaAnalysis
+  github: quadrama/DramaAnalysis
+  doi: 10.5281/zenodo.597509
+  language: r
+  description: "This R-package is developed in the context of the [QuaDramA](https://quadrama.github.io) project and is a collection of frequently used functions for the analysis of dramatic texts. It takes texts as input that are formatted in a CSV-like format (and that are produced by DramaNLP)."
+- title: TreeAnno
+  license: apache2
+  url: https://github.com/nilsreiter/treeanno
+  github: nilsreiter/treeanno
+  doi: 10.5281/zenodo.1296315
+  citation: Kuthy2018aa
+  description: "TreeAnno is a web-based tool to annotate tree structures on texts. Instead of drawing relations with pointing device, sentences or tokens can be indented. This makes the tool similar to an outliner (which is also its inspiration source). Under the hood, indentations are stored as trees on text snippets encoded via their character offsets. The tool has been used to annotate information structure in interactive texts."
+  screenshot: /assets/img/treeanno1.png
+  language: java
+  platform: web
+- title: DramaNLP
+  license: apache2
+  url: https://github.com/quadrama/DramaNLP
+  github: quadrama/DramaNLP
+  doi: 10.5281/zenodo.597866
+  language: java
+  platform: library
+  description: "DramaNLP is a collection of UIMA components that we use to process dramatic texts in the project [QuaDramA](https://quadrama.github.io). The collection contains importers from various TEI dialects as well as NLP components specific to the text type. This package is developed jointly with Janis Pagel."

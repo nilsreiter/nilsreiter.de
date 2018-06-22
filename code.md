@@ -5,35 +5,46 @@ title: Code
 
 Code I published can generally be found on my [GitHub](https://github.com/nilsreiter) profile. The most important contributions are listed below.
 
-## TreeAnno
+{% for tool in site.data.tools %}
+
+{% assign lic = site.data.licenses[tool.license] %}
 
 
-[![TreeAnno screenshot](/assets/img/treeanno1.png)](/assets/img/treeanno1.png) TreeAnno is a web-based tool to annotate tree structures on texts. Instead of drawing relations with pointing device, sentences or tokens can be indented. This makes the tool similar to an outliner (which is also its inspiration source). Under the hood, indentations are stored as trees on text snippets encoded via their character offsets. The tool has been used to annotate information structure in interactive texts.
+## {{tool.title}} 
 
-Repository: [github.com/nilsreiter/treeanno](https://github.com/nilsreiter/treeanno)
 
-License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+{% if tool.license %}
+[![License](https://img.shields.io/badge/License-{{ lic.name | uri_escape }}-blue.svg?longCache=true&style=flat-square)]({{ lic.url }})
+{% endif %}
 
-## CorefAnnotator
+{% if tool.doi %}
+[![DOI](https://img.shields.io/badge/DOI-{{tool.doi}}-blue.svg?longCache=true&style=flat-square)](https://doi.org/{{tool.doi}})
+{% endif %}
 
-[![CorefAnnotator screenshot](/assets/img/corefannotator1.png)](/assets/img/corefannotator1.png) CorefAnnotator is a tool for annotating coreference in texts. It has been developed to be able to cope with long texts with many different chains. The core idea is not to annotate binary relations between mentions (e.g., cataphoric), but to consider all mentions that co-refer to form an equivalence set. Consequently, the tool displays a list of entities on the right and allows free assignment of text spans to these entities. This tool is a desktop application written in Java.
+{% if tool.github %}
+[![](https://img.shields.io/github/release/{{tool.github}}.svg?style=flat-square)](https://github.com/{{tool.github}}/releases/latest)
+{% endif %}
 
-Repository: [github.com/nilsreiter/CorefAnnotator](https://github.com/nilsreiter/CorefAnnotator)
+{% if tool.language %}
+![Language](https://img.shields.io/badge/language-{{ tool.language }}-blue.svg?longCache=true&style=flat-square)
+{% endif %}
 
-License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+{% if tool.platform %}
+![Language](https://img.shields.io/badge/platform-{{ tool.platform }}-blue.svg?longCache=true&style=flat-square)
+{% endif %}
 
-## DramaNLP
+<div style="clear:both;">&nbsp;</div>
 
-DramaNLP is a collection of UIMA components that we use to process dramatic texts in the project [QuaDramA](https://quadrama.github.io). The collection contains importers from various TEI dialects as well as NLP components specific to the text type. This package is developed jointly with Janis Pagel.
+{% if tool.screenshot %}
+[![Screenshot]({{tool.screenshot}})]({{tool.screenshot}})
+{% endif %}
+{{tool.description}}
 
-Repository: [github.com/quadrama/DramaNLP](https://github.com/quadrama/DramaNLP)
+[{{tool.url}}]({{tool.url}})
 
-License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-## DramaAnalysis
+<div style="clear:both;">&nbsp;</div>
 
-This R-package is developed in the context of the [QuaDramA](https://quadrama.github.io) project and is a collection of frequently used functions for the analysis of dramatic texts. It takes texts as input that are formatted in a CSV-like format (and that are produced by DramaNLP). 
 
-Repository: [github.com/quadrama/DramaAnalysis](https://github.com/quadrama/DramaAnalysis)
+{% endfor %}
 
-License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
