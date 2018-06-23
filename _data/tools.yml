@@ -31,6 +31,16 @@
   screenshot: /assets/img/treeanno1.png
   language: java
   platform: web
+- title: GenericXmlReader
+  license: apache2
+  url: https://github.com/nilsreiter/generic-xml-reader
+  maven-central: de.unistuttgart.ims.uima.io/generic-xml-reader
+  description: "A class to read in arbitrary XML content (including TEI) into UIMA, translating some structural annotation to stand off"
+  badges:
+  - label: platform
+    value: library
+  - label: language
+    value: java
 - title: DramaNLP
   license: apache2
   url: https://github.com/quadrama/DramaNLP

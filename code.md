@@ -25,6 +25,8 @@ Code I published can generally be found on my [GitHub](https://github.com/nilsre
 [![](https://img.shields.io/github/release/{{tool.github}}/all.svg?style=flat-square)](https://github.com/{{tool.github}}/releases/latest)
 {% endif %}
 
+{% if tool.maven-central %}![Maven](https://img.shields.io/maven-central/v/{{tool.maven-central}}.svg?style=flat-square){% endif %}
+
 {% if tool.language %}
 ![Language](https://img.shields.io/badge/language-{{ tool.language }}-blue.svg?longCache=true&style=flat-square)
 {% endif %}
@@ -32,6 +34,16 @@ Code I published can generally be found on my [GitHub](https://github.com/nilsre
 {% if tool.platform %}
 ![Language](https://img.shields.io/badge/platform-{{ tool.platform }}-blue.svg?longCache=true&style=flat-square)
 {% endif %}
+
+{% for b in tool.badges %}
+{% if b.label and b.value %}
+{% if b.color %}
+![{{b.label}}](https://img.shields.io/badge/{{b.label}}-{{b.value}}-{{b.color}}.svg?longCache=true&style=flat-square)
+{% else %}
+![{{b.label}}](https://img.shields.io/badge/{{b.label}}-{{b.value}}-blue.svg?longCache=true&style=flat-square)
+{% endif %}
+{% endif %}
+{% endfor %}
 
 <div style="clear:both;">&nbsp;</div>
 
