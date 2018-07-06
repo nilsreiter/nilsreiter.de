@@ -16,6 +16,7 @@ pages: 45–76
 doi: "10.1515/9783110523300-003"
 publisher: De Gruyter
 lang: de
+month: 4
 link: https://www.degruyter.com/view/books/9783110523300/9783110523300-003/9783110523300-003.xml
 downloads:
 - desc: PDF

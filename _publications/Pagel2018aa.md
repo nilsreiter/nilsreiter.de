@@ -10,6 +10,7 @@ author:
 year: 2018
 booktitle: "Proceedings of the Workshop: Annotation in Digital Humanities (annDH)"
 lang: en
+month: 8
 editor:
 - Sandra Kübler
 - Heike Zinsmeister
