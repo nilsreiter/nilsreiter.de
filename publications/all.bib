@@ -3,5 +3,8 @@ layout: null
 ---
 
 {% for pub in site.publications %}
+{% if pub.toappear %}
+{% continue %}
+{% endif %}
 {% include pub/bibtex.html pub=pub %}
 {% endfor %}

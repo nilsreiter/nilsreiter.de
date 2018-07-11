@@ -10,5 +10,6 @@ booktitle: "Proceedings of LaTeCH-CLfL"
 year: 2018
 lang: en
 month: 8
+toappear: true
 ---
 

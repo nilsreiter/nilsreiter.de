@@ -12,4 +12,5 @@ volume: 63
 issuetitle: Digital Scholarship in American Studies
 lang: en
 month: 10
+toappear: true
 ---
