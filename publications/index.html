@@ -6,6 +6,8 @@ title: Publications
 {% assign years = site.publications | map: "year" | uniq | sort | reverse %}
 {% for y in years %}
 
+<a href="all.bib">Download all BibTeX entries</a>
+
 <h2>{{ y }}</h2>
 {% assign thisyear = site.publications | where:"year", y %}
 {% assign thisyear = thisyear | sort: 'month', 'first' | reverse %}
