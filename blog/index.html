@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div class="blog">
-    <ul>
-        {% for post in site.posts %}
-        <li>
-            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+    {% for post in site.posts %}
+    <div class="post">
+        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span> <h3>{{ post.title }}</h3>
+        <p>{{post.excerpt | markdownify}}</p>
+        <p class="more">{% if post.external %}<a class="external" href="{{post.external}}">more</a>{% else %}<a href="{{post.url}}">more ...</a>{% endif %}</p>
+    </div>
+    {% endfor %}
 </div>

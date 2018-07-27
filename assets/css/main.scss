@@ -49,7 +49,9 @@ div.details {
 	}
 }
 
-
+a.external::before {
+	content: "↗︎";
+}
 
 p {
 	font-size: 1em;

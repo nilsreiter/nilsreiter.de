@@ -1,6 +1,9 @@
 - title: home
   url: /index
 
+- title: blog
+  url: /blog
+
 - title: publications
   url: /publications
 
