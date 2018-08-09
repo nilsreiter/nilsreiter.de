@@ -49,12 +49,24 @@ div.details {
 	}
 }
 
-
+a.external::before {
+	content: "↗︎";
+}
 
 p {
 	font-size: 1em;
 	line-height: 150%;
+	img {
+		display:inline-block;
+		max-width:200px;
+		max-height:150px;
+		margin-bottom:10px;
+		margin-right:10px;
+		float:left;
+	}
 }
+
+
 a {
   color: $color-link;
   text-decoration: none;
@@ -87,8 +99,14 @@ ul {
 		@media screen and (max-width: $br) {
 			padding: 10px 0 10px 0;
 		}
+		a {
+			font-size:0.9em;
+		}
 	}
 }
+
+
+
 blockquote {
   border-left: 2px solid $color-black;
   padding-left: 15px;

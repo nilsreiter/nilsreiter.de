@@ -17,6 +17,15 @@
   lang: en
   with:
   - Sarah Schulz
+- title: "Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse"
+  inst:
+    name: DHd 2018
+  date: February 26, 2018
+  lang: de
+  with:
+  - Sarah Schulz
+  - Nora Ketschik
+  - Gerhard Kremer
 - title: Project seminar "Automatic detection of metaphors in literature"
   inst: stuttgart
   date: Summer term 2018
