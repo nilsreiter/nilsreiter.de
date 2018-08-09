@@ -14,4 +14,7 @@ month: 8
 editor:
 - Sandra Kübler
 - Heike Zinsmeister
+downloads:
+- desc: PDF
+  url: http://ceur-ws.org/Vol-2155/pagel.pdf
 ---
