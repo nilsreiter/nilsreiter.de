@@ -14,5 +14,4 @@ month: 8
 editor:
 - Sandra Kübler
 - Heike Zinsmeister
-toappear: true
 ---
