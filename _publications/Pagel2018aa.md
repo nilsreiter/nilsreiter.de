@@ -8,7 +8,8 @@ author:
 - Ina Rösiger
 - Sarah Schulz
 year: 2018
-booktitle: "Proceedings of the Workshop: Annotation in Digital Humanities (annDH)"
+booktitle: "Proceedings of the Workshop on Annotation in Digital Humanities, co-located with ESSLLI 2018"
+location: Sofia, Bulgaria
 lang: en
 month: 8
 editor:
