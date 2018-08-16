@@ -8,11 +8,14 @@ author:
 - Ina Rösiger
 - Sarah Schulz
 year: 2018
-booktitle: "Proceedings of the Workshop: Annotation in Digital Humanities (annDH)"
+booktitle: "Proceedings of the Workshop on Annotation in Digital Humanities, co-located with ESSLLI 2018"
+location: Sofia, Bulgaria
 lang: en
 month: 8
 editor:
 - Sandra Kübler
 - Heike Zinsmeister
-toappear: true
+downloads:
+- desc: PDF
+  url: http://ceur-ws.org/Vol-2155/pagel.pdf
 ---
