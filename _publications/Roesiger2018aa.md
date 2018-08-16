@@ -10,6 +10,10 @@ booktitle: "Proceedings of LaTeCH-CLfL"
 year: 2018
 lang: en
 month: 8
-toappear: true
+location: Santa Fe, New Mexico
+pages: 129-138
+downloads:
+- desc: PDF
+  url: http://aclweb.org/anthology/W18-4515
 ---
 
