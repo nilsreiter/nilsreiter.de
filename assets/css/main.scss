@@ -13,17 +13,17 @@ body {
 }
 h1 {
 	margin-bottom: 10px;
-	font-size:2em;
+	font-size:1.7em;
 }
 h2 {
 	margin-top:10px;
 	margin-bottom: 5px;
-	font-size: 1.5em;
+	font-size: 1.3em;
 }
 h3 {
 	margin-top: 10px;
 	margin-bottom: 5px;
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 strong {
 	font-weight: bold;
@@ -53,7 +53,9 @@ a.external::before {
 	content: "↗︎";
 }
 
+
 p {
+	margin-bottom:1em;
 	font-size: 1em;
 	line-height: 150%;
 	img {
@@ -88,14 +90,18 @@ code {
 	background-color: #EEE;
 	padding:5px;
 	font-family: monospace;
-	display:block;
+}
+
+ul.nolist {
+	list-style: none;
 }
 
 ul {
-	list-style: none;
 	li {
 		padding: 5px;
-		padding-left: 10px;
+		padding-top:0px;
+		padding-left: 0px;
+		margin-left: 20px;
 		@media screen and (max-width: $br) {
 			padding: 10px 0 10px 0;
 		}
@@ -126,6 +132,25 @@ blockquote {
 	}
 }
 
+.teaser {
+	p {
+		margin-bottom:0;
+	}
+	
+	.date {
+		text-align: right;
+		display:block;
+		color:#AAA;
+		margin-bottom:0;
+	}
+
+	.more {
+		text-align:right;
+	}
+	
+	margin-bottom:3em;
+}
+
 .post {
 	.date {
 		text-align: right;
@@ -135,12 +160,6 @@ blockquote {
 
 	.more {
 		text-align: right;
-	}
-	
-	.content {
-		p {
-			margin-bottom:10px;
-		}
 	}
 }
 
@@ -159,6 +178,7 @@ blockquote {
 	ul {
 		margin-top: 10px;
 		li {
+			margin:0;
 			display: inline;
 			padding: 0;
 			padding-left: 5px;
@@ -166,12 +186,43 @@ blockquote {
 	}
 }
 
+.tool {
+	div.badges {
+		img {
+			margin:1px;
+		}
+		margin:0;
+		margin-bottom:0.5em;
+	}
+	
+	div.screenshot {
+		margin:0;
+		img {
+			display:inline-block;
+			max-width:200px;
+			max-height:150px;
+			margin-bottom:10px;
+			margin-right:10px;
+			float:left;
+		}
+	}
+	
+	p {
+		font-size: 1em;
+		line-height: 150%;
+		img {
+			display:inline-block;
+			max-width:200px;
+			max-height:150px;
+			margin-bottom:10px;
+			margin-right:10px;
+			float:left;
+		}
+	}
+}
+
 .blog {
 	padding-bottom: 30px;
-	h1 {
-		font-size: 1.4em;
-		margin-bottom: 5px;
-	}
 }
 
 .music {

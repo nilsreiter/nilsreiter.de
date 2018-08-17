@@ -7,55 +7,30 @@ Code I published can generally be found on my [GitHub](https://github.com/nilsre
 
 {% for tool in site.data.tools %}
 
+<div class="tool">
+
+
 {% assign lic = site.data.licenses[tool.license] %}
 
 
-## {{tool.title}} 
+<h2>{{tool.title}}</h2>
 
 
-{% if tool.license %}
-[![License](https://img.shields.io/badge/license-{{ lic.name | uri_escape }}-blue.svg?longCache=true&style=flat-square)]({{ lic.url }})
-{% endif %}
+<div class="badges">{% if tool.license %}
+<a href="{{lic.url}}"><img src="https://img.shields.io/badge/license-{{ lic.name | uri_escape }}-blue.svg?longCache=true&style=flat-square" alt="License"></a>{% endif %}{% if tool.doi %}<a href="https://doi.org/{{tool.doi}}"><img src="https://img.shields.io/badge/doi-{{tool.doi}}-blue.svg?longCache=true&style=flat-square" alt="DOI"></a>{% endif %}{% if tool.github %}<a href="https://github.com/{{tool.github}}/releases/latest"><img src="https://img.shields.io/github/release/{{tool.github}}/all.svg?style=flat-square" alt="Latest release"></a>{% endif %}{% if tool.maven-central %}<img src="https://img.shields.io/maven-central/v/{{tool.maven-central}}.svg?style=flat-square" />{% endif %}{% if tool.language %}<img src="https://img.shields.io/badge/language-{{ tool.language }}-blue.svg?longCache=true&style=flat-square" alt="Language">{% endif %}{% if tool.platform %}<img src="https://img.shields.io/badge/platform-{{ tool.platform }}-blue.svg?longCache=true&style=flat-square" alt="Platform">{% endif %}{% for b in tool.badges %}{% if b.label and b.value %}
+{% if b.color %}<img src="https://img.shields.io/badge/{{b.label}}-{{b.value}}-{{b.color}}.svg?longCache=true&style=flat-square" alt="{{b.label}}" />{% else %}<img src="https://img.shields.io/badge/{{b.label}}-{{b.value}}-blue.svg?longCache=true&style=flat-square" alt="{{b.label}}" />{% endif %}{% endif %}
+{% endfor %}</div>
 
-{% if tool.doi %}
-[![DOI](https://img.shields.io/badge/doi-{{tool.doi}}-blue.svg?longCache=true&style=flat-square)](https://doi.org/{{tool.doi}})
-{% endif %}
 
-{% if tool.github %}
-[![](https://img.shields.io/github/release/{{tool.github}}/all.svg?style=flat-square)](https://github.com/{{tool.github}}/releases/latest)
-{% endif %}
+{% if tool.screenshot %}<div class="screenshot"><a href="{{tool.screenshot}}"><img src="{{tool.screenshot}}" /></a></div>{% endif %}
 
-{% if tool.maven-central %}![Maven](https://img.shields.io/maven-central/v/{{tool.maven-central}}.svg?style=flat-square){% endif %}
+{{tool.description | markdownify }}
 
-{% if tool.language %}
-![Language](https://img.shields.io/badge/language-{{ tool.language }}-blue.svg?longCache=true&style=flat-square)
-{% endif %}
+<p><a href="{{tool.url}}">{{tool.url}}</a></p>
 
-{% if tool.platform %}
-![Language](https://img.shields.io/badge/platform-{{ tool.platform }}-blue.svg?longCache=true&style=flat-square)
-{% endif %}
-
-{% for b in tool.badges %}
-{% if b.label and b.value %}
-{% if b.color %}
-![{{b.label}}](https://img.shields.io/badge/{{b.label}}-{{b.value}}-{{b.color}}.svg?longCache=true&style=flat-square)
-{% else %}
-![{{b.label}}](https://img.shields.io/badge/{{b.label}}-{{b.value}}-blue.svg?longCache=true&style=flat-square)
-{% endif %}
-{% endif %}
-{% endfor %}
-
-<div style="clear:both;">&nbsp;</div>
-
-{% if tool.screenshot %}
-[![Screenshot]({{tool.screenshot}})]({{tool.screenshot}})
-{% endif %}
-{{tool.description}}
-
-[{{tool.url}}]({{tool.url}})
 
 {% if tool.citation %}
-### Citation
+<h3>Citation</h3>
 
 {% assign citeId = "/publications/" | append: tool.citation %}
 
@@ -67,6 +42,7 @@ Code I published can generally be found on my [GitHub](https://github.com/nilsre
 
 <div style="clear:both;">&nbsp;</div>
 
+</div>
 
 {% endfor %}
 
