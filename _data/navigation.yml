@@ -9,9 +9,11 @@
 
 - title: projects
   url: /projects
+  tooltip: research projects
 
 - title: code
   url: /code
+  tooltip: released software
 
 - title: talks
   url: /talks
@@ -21,9 +23,11 @@
 
 - title: teaching
   url: /teaching
+  tooltip: classes
 
 - title: cv
   url: /cv
+  tooltip: "curriculum vitae"
 
 - title: about
   url: /about
