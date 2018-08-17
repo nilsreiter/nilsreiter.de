@@ -21,3 +21,6 @@ sass:
 collections:
   publications:
     output: true
+
+kramdown:
+  auto_ids: true
