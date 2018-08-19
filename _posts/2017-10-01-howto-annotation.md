@@ -4,7 +4,7 @@ title: "How to Develop Annotation Guidelines"
 excerpt: "This article describes where to start and how to proceed when developing annotation guidelines. It focuses on the scenario when you're creating new guidelines for a phenomenon that has been described mostly theoretically."
 ---
 
-*This article describes where to start and how to proceed when developing annotation guidelines. It focuses on the scenario that you are creating new guidelines for a phenomenon or concept that has been described theoretically.*
+*This article describes where to start and how to proceed when developing annotation guidelines. It focuses on the scenario that you are creating new guidelines for a phenomenon or concept that has been described theoretically. The article has first been posted on the [shared task webpage](https://sharedtasksinthedh.github.io/2017/10/01/howto-annotation/).*
 
 In a single sentence, the goal of annotation guidelines can be formulated as follows: given a theoretically described phenomenon or concept, describe it as generic as possible but as precise as necessary so that human annotators can annotate the concept or phenomenon in any text without running into problems or ambiguity issues.
 
