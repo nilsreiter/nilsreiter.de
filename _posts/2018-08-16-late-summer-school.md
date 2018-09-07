@@ -33,7 +33,20 @@ For editing Python files, participants will need a plain text editor. We recomme
 - Mac OS X: [TextMate](https://macromates.com)
 
 ## <a name="Agenda"></a>Agenda
-*coming soon*
+
+
+| Time | Wednesday, September 26 | Thursday, September 27 |
+| ------------------------- | ------------------- | ------------- |
+| 09:00 | Introduction, <br/>machine learning basics | Hands on (continued) |
+| 10:30 | *coffee break* | *coffee break* | 
+| 11:00 | Machine learning algorithms | Shared task evaluation | 
+| 12:30 | *lunch break* | *lunch break* |
+| 14:00 | Shared task introduction | What to do next |
+| 15:30 | *coffee break* | *coffee break* |
+| 16:00 | Hands on | Closing discussion |
+| 17:00 | *closing* | *closing* |
+{: .schedule }
+
 
 
 ## <a name="Material"></a>Material
