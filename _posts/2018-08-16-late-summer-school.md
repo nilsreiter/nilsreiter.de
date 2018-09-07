@@ -2,7 +2,7 @@
 layout: post
 title: "Late Summer School 'Machine Learning for Language Analysis'"
 show: true
-redirect_from: /lml2018
+redirect_from: lml2018
 ---
 
 I'm happy to announce that I'll be giving a two-day class on machine learning for reflected text analysis during the [late summer school in Cologne, Germany](http://ml-school.uni-koeln.de/). 
