@@ -24,3 +24,6 @@ collections:
 
 kramdown:
   auto_ids: true
+
+plugins:
+- jekyll-redirect-from
