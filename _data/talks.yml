@@ -1,3 +1,19 @@
+- title: "Präsenzkonzepte dramatischer Figuren im Vergleich"
+  venue:
+    label: Workshop
+  institution:
+    name: Stuttgart University
+    city: Stuttgart
+    link: http://www.uni-stuttgart.de
+  date: 2018-11-16
+- title: "Annotationen als Community-Aufgabe — Ein shared task zur Erstellung von Annotationsrichtlinien für Erzählebenen"
+  venue:
+    label: Workshop
+  institution:
+    name: Institut für Deutsche Sprache
+    city: Mannheim
+    link: http://www.ids-mannheim.de
+  date: 2018-10-01
 - title: "Reflected Text Analysis: Computational Linguistics Meets Digital Humanities"
   venue:
     label: DH-Kolloquium Cologne
