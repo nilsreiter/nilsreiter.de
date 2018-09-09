@@ -12,7 +12,13 @@
     {% else %}
         <title>{{ site.name }}</title>
     {% endif %}
-
+    
+    {% if page.author %}
+    <meta name="author" content="{{ page.author }}">
+    {% else %}
+    <meta name="author" content="{{ site.author.name }}">
+    {% endif %}
+    
     <meta name="description" content="{{ site.description }}">
 
     {% if site.google_verification %}
