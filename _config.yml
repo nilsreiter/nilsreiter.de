@@ -1,6 +1,7 @@
 # Blog settings
 permalink: /blog/:year/:title
 url: "https://nilsreiter.de"
+description: "General information, blog, publications, cv of Nils Reiter"
 
 title: nilsreiter.de
 author:
