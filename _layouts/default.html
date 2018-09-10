@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="keywords" content="{{ site.keywords }}, {{ page.keywords }}">
+    {% assign keywords = site.keywords | concat: page.keywords %}
+    <meta name="keywords" content="{{ keywords | uniq | join: ',' }}">
 
     {% if page.title %}
         <title>{{ page.title }}</title>
