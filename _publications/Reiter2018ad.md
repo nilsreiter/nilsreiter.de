@@ -21,5 +21,9 @@ link: https://www.degruyter.com/view/books/9783110523300/9783110523300-003/97831
 downloads:
 - desc: PDF
   url: Reiter2018ad.pdf
+keywords:
+- Operationalisierung
+- Forschungsfragen
+- Dramenanalyse
 ---
 

@@ -8,4 +8,9 @@ booktitle: "Proceedings of EADH"
 year: 2018
 month: 12
 toappear: true
+keywords:
+- annotation
+- coreference 
+- coreference resolution
+- tool
 ---
