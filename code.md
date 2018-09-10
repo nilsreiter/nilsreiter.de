@@ -1,6 +1,11 @@
 ---
 layout: page
 title: Code
+keywords:
+- code
+- tools
+- software
+- releases
 ---
 
 Code I published can generally be found on my [GitHub](https://github.com/nilsreiter) profile. The most important contributions are listed below.
