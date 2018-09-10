@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Community Services
+keywords:
+- events
+- community
+- workshops
+- conferences
+- tutorials
 ---
 
 ## Shared Task

@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Projects
+keywords:
+- projects
+- funding
 ---
 
 ## Current
