@@ -9,7 +9,7 @@ I'm happy to announce that I'll be giving a two-day class on machine learning fo
 
 The class takes place on September 26 and 27, and its main goal is to convey a basic understanding of how machine learning algorithms work concretely. The class will include both a theoretical introduction into (some) algorithms as well as a hands-on session in the form of a small shared task using Python. Application deadline is on August 20.
 
-
+The hands-on session in the class will be supported by Nathalie Wiedmer.
 
 **TOC**: [Announcement](#Announcement), [Preparations](#Preparations), [Agenda](#Agenda), [Material](#Material)
 
