@@ -55,4 +55,14 @@ For editing Python files, participants will need a plain text editor. We recomme
 
 ## <a name="Material"></a>Material
 
-*coming soon*
+### Hackatorial Package
+
+Please download [this zip file](/assets/2018-08-16-late-summer-school/lml2018.zip) and extract it into a directory on your drive. The zip file contains
+
+- Data with annotated entity references (sub directory `data`)
+- Code for training, testing and uploading (sub directory `code`)
+- Resources used for feature extraction (sub directory `static`)
+
+We will go over all these things in the shared task introduction.
+
+### Slides
