@@ -66,3 +66,6 @@ Please download [this zip file](/assets/2018-08-16-late-summer-school/lml2018.zi
 We will go over all these things in the shared task introduction.
 
 ### Slides
+
+- [Introduction](00-introduction.pdf)
+- [Machine learning basics](01-basics.pdf)
