@@ -72,5 +72,6 @@ We will go over all these things in the shared task introduction.
 - [Machine learning algorithms](/assets/2018-08-16-late-summer-school/02-algorithms.pdf)
 - [Shared task introduction](/assets/2018-08-16-late-summer-school/03-hackatorial.pdf)
 - [Shared task evaluation](/assets/2018-08-16-late-summer-school/03-hackatorial-evaluation.pdf) &#124; [Results tables](https://clarin09.ims.uni-stuttgart.de/cuter)
-- [Addon slides](/assets/2018-08-16-late-summer-school/03-hackatorial-addon.pdf)
+- [Addon](/assets/2018-08-16-late-summer-school/03-hackatorial-addon.pdf)
+- [What to do next](/assets/2018-08-16-late-summer-school/04-next.pdf)
 
