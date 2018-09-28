@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Late Summer School 'Machine Learning for Language Analysis'"
-show: true
+show: false
 redirect_from: lml2018
 ---
 
