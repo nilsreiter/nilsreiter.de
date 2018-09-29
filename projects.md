@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Projects
+keywords:
+- projects
+- funding
 ---
 
 ## Current
@@ -11,11 +14,9 @@ title: Projects
 ### {{ project.title }}
 {{project.subtitle}} at [{{inst.name}}]({{inst.link}}), {{inst.country}}
 
-Start: {{project.time}}
-
-Homepage: [{{project.link}}]({{ project.link }})
-
-Role: {{project.role }}
+- Start: {{project.time}}
+- Homepage: [{{project.link}}]({{ project.link }})
+- Role: {{project.role }}
 
 {% endfor %}
 

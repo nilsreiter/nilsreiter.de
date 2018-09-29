@@ -1,3 +1,21 @@
+- title: Learning Machine Learning
+  inst:
+    name: Late Summer School on Machine Learning for Language Analysis, Cologne University
+    link: http://ml-school.uni-koeln.de/index.html
+  date: "September 26-27, 2018"
+  lang: en
+- title: Computerlinguistische Methoden für die Digital Humanities
+  inst: stuttgart
+  date: Winter term 2018/19
+  program:
+  - MA. Digital Humanities
+  lang: de
+- title: Programmierkurs für die Digital Humanities
+  inst: stuttgart
+  date: Winter term 2018/19
+  program:
+  - MA. Digital Humanities
+  lang: de
 - title: Reflected Text Analysis in the Digital Humanities
   inst: 
     name: European Summer University in Digital Humanities, Leipzig University
@@ -5,6 +23,15 @@
   lang: en
   with:
   - Sarah Schulz
+- title: "Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse"
+  inst:
+    name: DHd 2018
+  date: February 26, 2018
+  lang: de
+  with:
+  - Sarah Schulz
+  - Nora Ketschik
+  - Gerhard Kremer
 - title: Project seminar "Automatic detection of metaphors in literature"
   inst: stuttgart
   date: Summer term 2018

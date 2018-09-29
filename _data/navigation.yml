@@ -1,23 +1,33 @@
 - title: home
   url: /index
 
+- title: blog
+  url: /blog
+
 - title: publications
   url: /publications
 
-- title: talks
-  url: /talks
-
 - title: projects
   url: /projects
+  tooltip: research projects
+
+- title: code
+  url: /code
+  tooltip: released software
+
+- title: talks
+  url: /talks
 
 - title: community
   url: /community
 
 - title: teaching
   url: /teaching
+  tooltip: classes
 
 - title: cv
   url: /cv
+  tooltip: "curriculum vitae"
 
 - title: about
   url: /about

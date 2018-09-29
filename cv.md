@@ -1,7 +1,14 @@
 ---
 layout: page
 title: Curriculum Vitae
+keywords:
+- cv
+- curriculum vitae
+- experience
+- resume
 ---
+
+Nils Reiter studied computational linguistics and computer science at [Saarland University](https://www.uni-saarland.de/nc/en/home.html), and did his PhD in a collaboration project between classical indology and computational linguistics at Heidelberg University ([SFB on ritual dynamics](http://ritualdynamik.de/index.php?id=1&L=1)). After finishing the PhD, he went to [Stuttgart University](https://www.uni-stuttgart.de/en/index.html) and now works as a scientific coordinator of the Centre for Reflected Text Analytics ([CRETA](https://www.creta.uni-stuttgart.de)). Since Summer 2017, he is also PI of the mixed-methods-Project [QuaDramA](https://quadrama.github.io) on the quantitative analysis of dramatic texts. He teaches in the DH master program at Stuttgart University.
 
 ## Professional Experience
 - since April 2014

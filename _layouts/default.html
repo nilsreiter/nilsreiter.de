@@ -5,20 +5,30 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    {% if page.keywords %}
+        {% assign keywords = site.keywords | concat: page.keywords %}
+    {% else %}
+        {% assign keywords = site.keywords %}
+    {% endif %}
+    <meta name="keywords" content="{{ keywords | uniq | join: ', ' }}">
 
     {% if page.title %}
-        <title>{{ page.title }}</title>
+    <title>{{ page.title }}</title>
     {% else %}
-        <title>{{ site.name }}</title>
+    <title>{{ site.name }}</title>
     {% endif %}
-
+    
+    {% if page.author %}
+    <meta name="author" content="{{ page.author | join: ', ' }}">
+    {% else %}
+    <meta name="author" content="{{ site.author.name }}">
+    {% endif %}
+    
     <meta name="description" content="{{ site.description }}">
 
     {% if site.google_verification %}
         <meta name="google-site-verification" content="{{ site.google_verify }}">
     {% endif %}
-
-    <link rel="icon" href="/assets/img/favicon.png">
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
     <link rel="stylesheet" type="text/css" href="/assets/css/fonts.css">
     <link rel="alternate" type="application/atom+xml"  title="Atom Feed for nilsreiter.de" href="/atom.xml" />
@@ -29,10 +39,10 @@
     <div class="wrapper">
       <div class="header">
           <h1>{{ site.name }}</h1>
-          <ul>
+          <ul class="menu">
               {% for item in site.data.navigation %}
               <li>
-                  <a href="{{ item.url }}">{{ item.title }}</a>
+                  <a href="{{ item.url }}"{% if item.tooltip %} title="{{item.tooltip}}"{% endif %}>{{ item.title }}</a>
               </li>
               {% endfor %}
           </ul>

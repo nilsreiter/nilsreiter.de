@@ -1,11 +1,20 @@
 # Blog settings
-permalink: /blog/:title
-baseurl: "http://nilsreiter.de"
+permalink: /blog/:year/:title
+url: "https://nilsreiter.de"
+description: "General information, blog, publications, cv of Nils Reiter"
 
 title: nilsreiter.de
 author:
   name: Nils Reiter
   email: nils.reiter@ims.uni-stuttgart.de
+keywords:
+- DH
+- Digital Humanities
+- Stuttgart
+- NLP
+- Natural Language Processing
+- science
+- scientist
 
 
 # File management
@@ -21,3 +30,9 @@ sass:
 collections:
   publications:
     output: true
+
+kramdown:
+  auto_ids: true
+
+plugins:
+- jekyll-redirect-from
