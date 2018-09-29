@@ -1,4 +1,4 @@
-#!bash
+
 
 case "$TRAVIS_BRANCH" in
  draft) TGT=beta ;;
