@@ -1,0 +1,29 @@
+
+
+{% assign pubs = include.publications | where: "toappear", true %}
+
+
+<h2 style="margin-top:20px;">to appear</h2>
+{% for pub in pubs %}
+<div class="publication" lang="{{pub.lang}}">{% include pub/{{ pub.type }}.html p=pub %}
+</div>
+{% endfor %}
+
+{% assign years = include.publications | map: "year" | uniq | sort | reverse %}
+{% for y in years %}
+
+
+<h2>{{ y }}</h2>
+{% assign thisyear = include.publications | where:"year", y %}
+{% assign thisyear = thisyear | sort: 'month', 'first' | reverse %}
+{% for pub in thisyear %}
+
+{% if pub.toappear %}
+{% continue %}
+{% endif %}
+<div class="publication" lang="{{pub.lang}}">{% include pub/{{ pub.type }}.html p=pub %}
+	<p class="right_aligned"><a href="{{pub.url}}">Details</a></p>
+</div>
+{% endfor %}
+
+{% endfor %}
