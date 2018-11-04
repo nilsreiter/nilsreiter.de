@@ -5,7 +5,21 @@
     name: Stuttgart University
     city: Stuttgart
     link: http://www.uni-stuttgart.de
+  lang: de
   date: 2018-11-16
+- title: "Exploring Vector-Space for Automatic Metaphor Detection"
+  venue:
+    label: "Finding Metaphor in Discourse. An Intensive Training for Manual and Algorithmic Approaches to Metaphor"
+    link: http://dhlab.unibas.ch/finding-metaphor-in-discourse/
+  institution:
+    name: University of Basel
+    country: Switzerland
+  lang: en
+  with:
+    - Elena Rogleva
+    - Vanessa Schach
+    - Amelie Wührl
+  date: 2018-11-08
 - title: "Annotationen als Community-Aufgabe — Ein shared task zur Erstellung von Annotationsrichtlinien für Erzählebenen"
   venue:
     label: Workshop
