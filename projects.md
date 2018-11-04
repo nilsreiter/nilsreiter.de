@@ -17,6 +17,7 @@ keywords:
 - Start: {{project.time}}
 - Homepage: [{{project.link}}]({{ project.link }})
 - Role: {{project.role }}
+{% if project.funding %} - Funded by: {{ project.funding }}{% endif %}
 
 {% endfor %}
 

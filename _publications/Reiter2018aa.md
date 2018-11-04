@@ -6,7 +6,7 @@ author:
 - Nils Reiter
 - Marcus Willand
 booktitle: "Digitale Literaturwissenschaft. DFG Symposion 2017"
-year: 2018
+year: 2019
 month: 12
 editor:
 - Fotis Jannidis
