@@ -1,0 +1,13 @@
+---
+layout: page_with_menu
+title: "Publications in Collections"
+keywords:
+- publications
+menu: "pub/menu.html"
+---
+
+{% assign filtered_publications = site.publications | where:"type", "incollection" %}
+
+{% include pub/filtered-collection.html publications=filtered_publications %}
+
+
