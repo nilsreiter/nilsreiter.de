@@ -5,7 +5,9 @@ show: false
 redirect_from: metaphors2018
 ---
 
-report/hands-on tutorial by Elena Rogleva, Vanessa Schach, Amelie Wührl & Nils Reiter
+report/hands-on tutorial by Elena Rogleva, Vanessa Schach, Amelie Wührl & Nils Reiter, held during the workshop [Finding Metaphor in Discourse. An Intensive Training for Manual and Algorithmic Approaches to Metaphor](http://dhlab.unibas.ch/finding-metaphor-in-discourse/), November 8-9, 2018, at Basel University.
 
-## Resources
-[Download zip file](/assets/2018-11-08-metaphors/Resources.zip)
+
+## Downloads
+- [Resources](/assets/2018-11-08-metaphors/Resources.zip)
+- Slides
