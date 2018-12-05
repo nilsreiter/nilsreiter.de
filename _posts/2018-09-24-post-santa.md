@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "After the SANTA Workshop"
-show: true
+show: false
 ---
 
 This after-workshop post summarizes some interesting findings during our workshop. The post focusses on subjective impressions of the workshop, it will take some more time to deliver the actual results. 
