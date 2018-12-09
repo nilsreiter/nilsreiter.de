@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Taught Courses
+title: Taught Courses and Tutorials
 ---
 
 ## External
