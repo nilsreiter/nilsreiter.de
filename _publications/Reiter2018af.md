@@ -7,8 +7,7 @@ author:
 - Benjamin Krautter
 - Janis Pagel
 - Marcus Willand
-booktitle: "Proceedings of EADH"
+booktitle: "Abstracts of EADH"
 year: 2018
 month: 12
-toappear: true
 ---

@@ -6,8 +6,7 @@ author:
 - Marcus Willand
 - Jens Beck
 - Nils Reiter
-booktitle: "Proceedings of EADH"
+booktitle: "Abstracts of EADH"
 year: 2018
 month: 12
-toappear: true
 ---
