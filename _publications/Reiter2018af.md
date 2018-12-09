@@ -7,6 +7,7 @@ author:
 - Benjamin Krautter
 - Janis Pagel
 - Marcus Willand
+location: "Galway, Ireland"
 booktitle: "Abstracts of EADH"
 year: 2018
 month: 12

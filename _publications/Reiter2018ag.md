@@ -7,6 +7,7 @@ author:
 booktitle: "Abstracts of EADH"
 year: 2018
 month: 12
+location: "Galway, Ireland"
 keywords:
 - annotation
 - coreference 
