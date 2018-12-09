@@ -13,11 +13,9 @@ Nils Reiter studied computational linguistics and computer science at [Saarland 
 
 ## Professional Experience
 - since April 2014
-  - Postdoc and Researcher at the Institute of Natural Language Processing (IMS), Stuttgart University
-  - Tasks: Scientific coordination of the Center for Reflected Text Analytics (since Jan. 2016, [projects](/projects)), research between Digital Humanities and Computational Linguistics, Development of a Digital Humanities study program, teaching
+  - Postdoc and tenured researcher at the Institute of Natural Language Processing (IMS), Stuttgart University
 - October 2007 – March 2014
   - Researcher at Department of Computational Linguistics, Heidelberg University
-  - Tasks: Research in the SFB 619 Ritual Dynamics ([projects](/projects)), Support of CLARIN-D working group on Natural Language Processing and Applied Linguistics, administration of computational linguistic resources, student advisory service, advancements to the examination regulations, teaching
 
 
 ## Education
