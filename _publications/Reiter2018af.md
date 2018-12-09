@@ -8,7 +8,7 @@ author:
 - Janis Pagel
 - Marcus Willand
 location: "Galway, Ireland"
-booktitle: "Abstracts of EADH"
+booktitle: "Abstracts of EADH: Data in the Digital Humanities"
 year: 2018
 month: 12
 ---
