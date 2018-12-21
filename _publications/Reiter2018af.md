@@ -11,4 +11,5 @@ location: "Galway, Ireland"
 booktitle: "Abstracts of EADH: Data in the Digital Humanities"
 year: 2018
 month: 12
+doi: 10.18419/opus-10162
 ---
