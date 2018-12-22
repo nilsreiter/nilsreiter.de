@@ -10,6 +10,7 @@ editor:
 - Kalliopi Zervanou
 - Marieke van Erp
 - Beatrice Alex
+month: 8
 pages: 34-38
 publisher: Association for Computational Linguistics
 address: Beijing, China

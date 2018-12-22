@@ -6,7 +6,7 @@ editor:
 - Beatrice Alex
 - Kalliopi A. Zervanou
 title: Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities
-month: August
+month: 8
 year: 2016
 address: Berlin, Germany
 publisher: Association for Computational Linguistics

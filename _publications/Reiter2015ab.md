@@ -7,6 +7,7 @@ author:
 - Anette Frank
 booktitle: "Book of Abstracts of DHd 2015"
 year: 2015
+month: 2
 location: Graz, Austria
 downloads:
 - desc: Poster
