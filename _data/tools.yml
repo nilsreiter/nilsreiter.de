@@ -7,7 +7,7 @@
   screenshot: /assets/img/corefannotator1.png
   language: java
   platform: desktop
-  citation: Roesiger2018aa
+  citation: Reiter2018ag
 - title: DramaAnalysis
   license: apache2
   url: https://github.com/quadrama/DramaAnalysis
