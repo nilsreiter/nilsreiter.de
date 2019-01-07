@@ -10,7 +10,7 @@ author:
 year: 2016
 booktitle: Book of Abstracts of DHd
 address: Leipzig, Germany
-month: March
+month: 3
 ref: Blessing2016aa
 lang: de
 downloads:

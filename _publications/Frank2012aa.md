@@ -11,7 +11,7 @@ author:
 year: 2012
 volume: 7
 number: 1
-month: January
+month: 1
 link: http://journals.linguisticsociety.org/elanguage/lilt/article/view/2690.html
 downloads:
 - desc: PDF

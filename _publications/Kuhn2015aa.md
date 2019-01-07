@@ -8,7 +8,7 @@ author:
 year: 2015
 booktitle: Book of Abstracts of DH
 address: Sydney, Australia
-month: June
+month: 6
 ref: Kuhn2015aa
 lang: en
 ---
