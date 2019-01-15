@@ -6,7 +6,7 @@ author:
 - Nils Reiter
 - Marcus Willand
 booktitle: "Anglo-German Dramatic and Poetic Encounters: New Perspectives on Exchange in the Sattelzeit"
-year: 2018
+year: 2019
 editor:
 - Michael Wood
 - Sandro Jung

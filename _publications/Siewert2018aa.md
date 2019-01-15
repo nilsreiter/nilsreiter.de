@@ -5,12 +5,11 @@ title: "The Explorative Value of Computational Methods: Rereading the American S
 author:
 - Stephanie Siewert
 - Nils Reiter
-year: 2018
+year: 2019
 journal: American Studies
-number: 2
+number: 1
 volume: 63
 issuetitle: Digital Scholarship in American Studies
 lang: en
-month: 10
 toappear: true
 ---
