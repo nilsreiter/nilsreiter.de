@@ -2,12 +2,15 @@
 
 {% assign pubs = include.publications | where: "toappear", true %}
 
+{% if pubs.size > 0 %}
 
 <h2 style="margin-top:20px;">to appear</h2>
 {% for pub in pubs %}
 <div class="publication" lang="{{pub.lang}}">{% include pub/{{ pub.type }}.html p=pub %}
 </div>
 {% endfor %}
+
+{% endif %}
 
 {% assign years = include.publications | map: "year" | uniq | sort | reverse %}
 {% for y in years %}
