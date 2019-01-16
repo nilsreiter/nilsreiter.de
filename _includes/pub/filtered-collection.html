@@ -13,11 +13,16 @@
 {% endif %}
 
 {% assign years = include.publications | map: "year" | uniq | sort | reverse %}
+
 {% for y in years %}
 
+{% assign thisyear = include.publications | where:"year", y | where_exp: "item", "item.toappear != true" %}
 
-<h2>{{ y }}</h2>
-{% assign thisyear = include.publications | where:"year", y %}
+{% if thisyear.size == 0 %}
+{% continue %}
+{% endif %}
+
+{% if include.showYear %}<h2>{{ y }}</h2>{% endif %}
 {% assign thisyear = thisyear | sort: 'month', 'first' | reverse %}
 {% for pub in thisyear %}
 

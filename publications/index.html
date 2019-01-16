@@ -22,14 +22,20 @@ menu: "pub/menu.html"
 {% for y in years %}
 
 
-<h2>{{ y }}</h2>
-{% assign thisyear = site.publications | where:"year", y %}
-{% assign thisyear = thisyear | sort: 'month', 'first' | reverse %}
-{% for pub in thisyear %}
 
-{% if pub.toappear %}
+{% assign thisyear = site.publications | where:"year", y | where_exp: "item", "item.toappear != true" %}
+
+{% if thisyear.size == 0 %}
 {% continue %}
 {% endif %}
+
+
+{% assign thisyear = thisyear | sort: 'month', 'first' | reverse %}
+
+<h2>{{ y }}</h2>
+
+{% for pub in thisyear %}
+
 <div class="publication" lang="{{pub.lang}}">{% include pub/{{ pub.type }}.html p=pub %}
 	<p class="right_aligned"><a href="{{pub.url}}">Details</a></p>
 </div>

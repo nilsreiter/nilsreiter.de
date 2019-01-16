@@ -8,6 +8,6 @@ menu: "pub/menu.html"
 
 {% assign filtered_publications = site.publications | where:"type", "inproceedings" %}
 
-{% include pub/filtered-collection.html publications=filtered_publications %}
+{% include pub/filtered-collection.html publications=filtered_publications showYear=true %}
 
 
