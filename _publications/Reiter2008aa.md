@@ -17,10 +17,10 @@ editor:
 - Johan Bos
 - Rodolfo Delmonte
 publisher: College Publications
-link: http://www.aclweb.org/anthology/W/W08/W08-2231.pdf
+link: http://www.aclweb.org/anthology/W08-2231
 downloads:
 - desc: PDF
-  url: http://www.aclweb.org/anthology/W/W08/W08-2231.pdf
+  url: http://www.aclweb.org/anthology/W08-2231
 ---
 
 ### Abstract
