@@ -7,6 +7,7 @@ author:
 - Nils Reiter
 year: 2018
 journal: American Studies
+pages: 199-230
 number: 2
 volume: 63
 issuetitle: Digital Scholarship in American Studies
