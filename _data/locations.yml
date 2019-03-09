@@ -1,11 +1,17 @@
+cologne:
+  name: Cologne University
+  country: Germany
+  link: https://www.uni-koeln.de/
 stuttgart:
   name: Stuttgart University
   country: Germany
   link: http://www.uni-stuttgart.de
+  include: true
 heidelberg:
   name: Heidelberg University
   country: Germany
   link: http://www.uni-heidelberg.de
+  include: true
 konstanz:
   name: Konstanz University
   country: Germany
