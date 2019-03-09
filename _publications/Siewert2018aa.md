@@ -16,4 +16,8 @@ editor:
 - Dennis Mischke
 lang: en
 month: 12
+iurl: https://amst.winter-verlag.de/article/AMST/2018/2/8
+downloads:
+- desc: PDF
+  url: https://amst.winter-verlag.de/article/AMST/2018/2/8
 ---
