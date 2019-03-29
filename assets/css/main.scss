@@ -7,10 +7,16 @@
 body {
 	color: $color-black;
 	background: $color-white;
+	@media(prefers-color-scheme: dark) {
+		background: $color-black;
+		color: $color-white;
+	};
 	font-family: 'Open Sans', sans-serif;
 	font-size: 95%;
 	font-weight: 400;
 }
+
+
 h1 {
 	margin-bottom: 10px;
 	font-size:1.7em;
@@ -70,24 +76,40 @@ p {
 
 
 a {
-  color: $color-link;
-  text-decoration: none;
-  &:visited {
+	@media(prefers-color-scheme: dark) {
+		color:$color-dark-link;
+	}
 	color: $color-link;
 	text-decoration: none;
-  }
-  &:hover {
-	 background-color: $color-grey;
-	 text-decoration: none;
-  }
-  &:active {
-	color: $color-link;
-	text-decoration: none;
-  }
+	&:visited {
+		color: $color-link;
+		@media(prefers-color-scheme: dark) {
+			color:$color-dark-link;
+		}
+		text-decoration: none;
+ 	}
+ 	&:hover {
+		background-color: $color-grey;
+		@media(prefers-color-scheme: dark) {
+			color: $color-black;
+			background-color:$color-dark-link;
+		}
+		text-decoration: none;
+  	}
+  	&:active {
+		color: $color-link;
+		@media(prefers-color-scheme: dark) {
+			color:$color-dark-link;
+		}
+		text-decoration: none;
+  	}
 }
 
 code {
-	background-color: #EEE;
+	background-color: $color-grey;
+	@media(prefers-color-scheme: dark) {
+		background-color:$color-dark-grey;
+	}
 	padding:5px;
 	font-family: monospace;
 }
@@ -182,6 +204,8 @@ blockquote {
 			display: inline;
 			padding: 0;
 			padding-left: 5px;
+			color: $color-dark-link;
+			
 		}
 	}
 }
@@ -418,7 +442,10 @@ table.schedule {
 	
 	code {
 		padding:5px;
-		background-color:#EEE;
+		background-color:$color-grey;
+		@media(prefers-color-scheme: dark) {
+			background-color:$color-dark-grey;
+		}
 		white-space:pre-wrap;
 	}
 }
