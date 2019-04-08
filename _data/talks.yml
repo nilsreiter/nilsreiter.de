@@ -1,3 +1,34 @@
+- title: "Fan Fiction ‚lesen‘: von close zu distant reading"
+  venue: 
+    label: "Ringvorlesung Sprache verstehen -- Texte verstehen"
+  institution: stuttgart
+  date: 2019-05-29
+  lang: de
+  with:
+  - Isabelle Henke
+  - Angelika Zirker
+- title: "Maschinelle Sprachverarbeitung -- Überblick und aktuelle Trends"
+  venue:
+    label: "Ringvorlesung Technikfolgenabschätzung: »Transformation@Work - Kollege Roboter, KI & Co. in der neuen Arbeitswelt«"
+    link: https://www.iat.uni-stuttgart.de/institut/aktuelles/news/Ringvorlesung-Technikfolgenabschaetzung-TransformationWork-Kollege-Roboter-KI-Co.-in-der-neuen-Arbeitswelt/
+  institution: 
+    name: Stuttgart University
+    city: Stuttgart
+    link: https://www.uni-stuttgart.de
+    country: Germany
+  date: 2019-05-07
+  lang: de  
+- title: "Quantitative Dramenanalyse: Ein explorativer Zugang zu Gesundheit in literarischen Texten"
+  venue:
+    label: Ringvorlesung „Gesundheit verstehen – Digital Humanities im Dialog“
+    link: https://www.herma.uni-hamburg.de/news/events/2019-ringvorlesung.html
+  institution:
+    name: Hamburg University
+    city: Hamburg
+    country: Germany
+    link: https://www.uni-hamburg.de
+  lang: de
+  date: 2019-04-30
 - title: "SANTA: Annotation Scheme Development in a Shared Task"
   venue:
     label: Computational Linguistics Colloquium
