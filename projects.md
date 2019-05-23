@@ -14,8 +14,8 @@ keywords:
 ### {{ project.title }}
 {{project.subtitle}} at [{{inst.name}}]({{inst.link}}), {{inst.country}}
 
-- Start: {{project.time}}
-- Homepage: [{{project.link}}]({{ project.link }})
+- Start: {{project.time}}{% if project.link %}
+- Homepage: [{{project.link}}]({{ project.link }}){%endif%}
 - Role: {{project.role }}
 {% if project.funding %} - Funded by: {{ project.funding }}{% endif %}
 
