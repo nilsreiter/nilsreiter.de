@@ -42,7 +42,17 @@ em {
 div.picture {
 	float:left;
 	margin-right:20px;
+	width:150px;
+	height:150px;
+	background:url(/assets/img/nils.jpg);
+	background-size:150px 150px;
 }
+
+div.picture:hover {
+	background:url(/assets/img/IMG_1464.jpg);
+	background-size:150px 150px;
+}
+
 
 div.details {
 	float:left;
