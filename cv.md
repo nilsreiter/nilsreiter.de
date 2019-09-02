@@ -12,7 +12,9 @@ Nils Reiter studied computational linguistics and computer science at [Saarland 
 
 
 ## Professional Experience
-- since April 2014
+- since September 2019
+  - Vertretungsprofessur *Sprachliche Informationsverarbeitung* at the Institute for Digital Humanities, Cologne University
+- April 2014 – August 2019
   - Postdoc and tenured researcher at the Institute of Natural Language Processing (IMS), Stuttgart University
 - October 2007 – March 2014
   - Researcher at Department of Computational Linguistics, Heidelberg University
