@@ -26,12 +26,10 @@ Nils Reiter studied computational linguistics and computer science at [Saarland 
   - PhD in Computational Linguistics at Heidelberg University, Germany
   - Thesis title: Discovering Structural Similarities in Narrative Texts using Event Alignment Algorithms at Heidelberg University
   - Supervisor: Prof. Dr. Anette Frank
-  - Grade: magna cum laude
 
 - October 2002 – September 2007:
   - Computational Linguistics with Computer Science as minor subject at Saarland University, Saarbrücken
   - Diploma thesis title: *Towards a Linking of FrameNet and SUMO*
-  - Grade: 1.6
 
 - September 2000 – September 2002:
   - Commercial Information Technology (“Wirtschaftsinformatik”) at University of Applied Sciences Kaiserslautern in Zweibrücken
