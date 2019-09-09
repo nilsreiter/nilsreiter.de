@@ -89,3 +89,7 @@ We will go over all these things in the shared task introduction.
 
 ### Slides
 
+#### Session 1
+- Example annotation guidelines
+   - [STTS tag set (German parts of speech)](/assets/2019-09-06-reflected-text-analysis/STTS_Guide.pdf)
+   - [Penn Treebank tag set (English parts of speech)](/assets/2019-09-06-reflected-text-analysis/Penn-Treebank-Tagset.pdf)
