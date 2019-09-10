@@ -87,9 +87,14 @@ Please download [this zip file]() and extract it into a directory on your drive.
 
 We will go over all these things in the shared task introduction.
 
+
 ### Slides
 
-#### Session 1
-- Example annotation guidelines
-   - [STTS tag set (German parts of speech)](/assets/2019-09-06-reflected-text-analysis/STTS_Guide.pdf)
-   - [Penn Treebank tag set (English parts of speech)](/assets/2019-09-06-reflected-text-analysis/Penn-Treebank-Tagset.pdf)
+#### Monday
+- [Slides](/assets/2019-09-06-reflected-text-analysis/Monday.pdf)
+- Example annotation guidelines: [STTS tag set (German parts of speech)](/assets/2019-09-06-reflected-text-analysis/STTS_Guide.pdf), [Penn Treebank tag set (English parts of speech)](/assets/2019-09-06-reflected-text-analysis/Penn-Treebank-Tagset.pdf)
+ - Texts for annotation exercise: [Lewis Carroll: Alice in Wonderland, chapter 11](/assets/2019-09-06-reflected-text-analysis/Alice.pdf), [Jules Verne: Around the World in 80 Days, chapter 13](/assets/2019-09-06-reflected-text-analysis/80days.pdf), [Mary Rowlandson: Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson](/assets/2019-09-06-reflected-text-analysis/MaryRowlandson.pdf)
+
+#### Tuesday
+- [Slides]()
+
