@@ -77,15 +77,7 @@ For editing Python files, participants will need a plain text editor. We recomme
 - Windows: [Notepad++](https://notepad-plus-plus.org)
 - Mac OS X: [TextMate](https://macromates.com)
 
-### Hackatorial Package
 
-Please download [this zip file](/assets/2019-09-06-reflected-text-analysis/Hackatorial.zip) and extract it into a directory on your drive. The zip file contains
-
-- Data with annotated entity references (sub directory `data`)
-- Code for training, testing and uploading (sub directory `code`)
-- Resources used for feature extraction (sub directory `static`)
-
-We will go over all these things in the shared task introduction.
 
 
 ### Slides
@@ -98,3 +90,10 @@ We will go over all these things in the shared task introduction.
 #### Tuesday
 - [Slides](/assets/2019-09-06-reflected-text-analysis/Tuesday.pdf)
 
+#### Wednesday
+- [Slides on shared tasks and hackatorial](/assets/2019-09-06-reflected-text-analysis/Wednesday.pdf)
+- [Hackatorial package](/assets/2019-09-06-reflected-text-analysis/Hackatorial.zip): Please download the zip file and extract it into a directory on your drive. The zip file contains
+	- Data with annotated entity references (sub directory `data`)
+	- Code for training, testing and uploading (sub directory `code`)
+	- Resources used for feature extraction (sub directory `static`)
+- [List of implemented features](/assets/2019-09-06-reflected-text-analysis/feature-table.pdf)
