@@ -96,5 +96,5 @@ We will go over all these things in the shared task introduction.
  - Texts for annotation exercise: [Lewis Carroll: Alice in Wonderland, chapter 11](/assets/2019-09-06-reflected-text-analysis/Alice.pdf), [Jules Verne: Around the World in 80 Days, chapter 13](/assets/2019-09-06-reflected-text-analysis/80days.pdf), [Mary Rowlandson: Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson](/assets/2019-09-06-reflected-text-analysis/MaryRowlandson.pdf)
 
 #### Tuesday
-- [Slides]()
+- [Slides](/assets/2019-09-06-reflected-text-analysis/Tuesday.pdf)
 
