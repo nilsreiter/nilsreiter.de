@@ -89,6 +89,7 @@ For editing Python files, participants will need a plain text editor. We recomme
 
 #### Tuesday
 - [Slides](/assets/2019-09-06-reflected-text-analysis/Tuesday.pdf)
+- [Addendum, slides](/assets/2019-09-06-reflected-text-analysis/Tuesday_addendum.pdf)
 
 #### Wednesday
 - [Slides on shared tasks and hackatorial](/assets/2019-09-06-reflected-text-analysis/Wednesday.pdf)
