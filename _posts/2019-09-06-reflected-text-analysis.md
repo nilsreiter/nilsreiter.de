@@ -79,7 +79,7 @@ For editing Python files, participants will need a plain text editor. We recomme
 
 ### Hackatorial Package
 
-Please download [this zip file]() and extract it into a directory on your drive. The zip file contains
+Please download [this zip file](/assets/2019-09-06-reflected-text-analysis/Hackatorial.zip) and extract it into a directory on your drive. The zip file contains
 
 - Data with annotated entity references (sub directory `data`)
 - Code for training, testing and uploading (sub directory `code`)
