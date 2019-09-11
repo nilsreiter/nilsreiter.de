@@ -11,24 +11,7 @@ From September 9 to 13, I will be giving a class on *Reflected Text Analysis bey
 This post serves as course page, containing the material, agenda etc.
 
 
-## <a name="Preparations"></a>Preparations
 
-Participants are asked to install the following things on their computers (this can be done during the first day of the class)
-
-### Python
-
-- Python: If your computer already has Python 2, there is no need to update. If you're installing Python from scratch, please use Python 3.
-- pip: The Python package manager
-- The Python libraries `nltk` and `requests`.
-
-Detailed instructions for Windows, Mac OS X and Linux can be found [here](/assets/2019-09-06-reflected-text-analysis/installation-instructions.pdf) (PDF file). The file [test_install.py](/assets/2019-09-06-reflected-text-analysis/test_install.py) can be used to test the installation.
-
-### Text Editor
-
-For editing Python files, participants will need a plain text editor. We recommend the following:
-
-- Windows: [Notepad++](https://notepad-plus-plus.org)
-- Mac OS X: [TextMate](https://macromates.com)
 
 ## <a name="Agenda"></a>Agenda
 
@@ -62,7 +45,7 @@ For editing Python files, participants will need a plain text editor. We recomme
     </tr>
     <tr>
       <td>Thursday</td>
-      <td colspan="3"><em>excursion to the <a href="https://www.dla-marbach.de/en">German Literature Archive</a>, Marbach</em><br/><strong>The excursion starts at 1pm</strong></td>
+      <td colspan="3"><em>excursion to the <a href="https://www.dla-marbach.de/en">German Literature Archive</a>, Marbach</em><br/>(starting at 1pm!)</td>
     </tr>
     <tr>
       <td>Friday</td>
@@ -76,6 +59,23 @@ For editing Python files, participants will need a plain text editor. We recomme
 
 
 ## <a name="Material"></a>Material
+
+Participants are asked to install the following things on their computers (this can be done during the first day of the class)
+
+### Python
+
+- Python: If your computer already has Python 2, there is no need to update. If you're installing Python from scratch, please use Python 3.
+- pip: The Python package manager
+- The Python libraries `nltk` and `requests`.
+
+Detailed instructions for Windows, Mac OS X and Linux can be found [here](/assets/2019-09-06-reflected-text-analysis/installation-instructions.pdf) (PDF file). The file [test_install.py](/assets/2019-09-06-reflected-text-analysis/test_install.py) can be used to test the installation.
+
+### Text Editor
+
+For editing Python files, participants will need a plain text editor. We recommend the following:
+
+- Windows: [Notepad++](https://notepad-plus-plus.org)
+- Mac OS X: [TextMate](https://macromates.com)
 
 ### Hackatorial Package
 
