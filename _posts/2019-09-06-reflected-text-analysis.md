@@ -98,3 +98,21 @@ For editing Python files, participants will need a plain text editor. We recomme
 	- Code for training, testing and uploading (sub directory `code`)
 	- Resources used for feature extraction (sub directory `static`)
 - [List of implemented features](/assets/2019-09-06-reflected-text-analysis/feature-table.pdf)
+
+## Projects (for ECTS credit points)
+
+If you're interested in getting ECTS credit points for taking part in this class, you'll need to conduct a small project, according to the following recipe (unless we agreed on a different plan):
+
+1. Pick a task (e.g., part of speech tagging)
+2. Pick a non-standard text that is not too long (e.g., a poem)
+3. Create a gold standard by applying the annotation guidelines for the task
+4. Apply an existing tool for the task
+5. Evaluate the tool against your annotations
+6. Either
+	- Develop hypotheses for improving/adapting the tool
+	or
+	- Retrain the tool on existing training data *and* your own corpus
+	- Re-evaluate it after adding your own data
+7. Write a brief report on this and send it to me
+
+Your project should be finished (and the report sent to me) before October 14.
