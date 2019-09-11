@@ -62,7 +62,7 @@ For editing Python files, participants will need a plain text editor. We recomme
     </tr>
     <tr>
       <td>Thursday</td>
-      <td colspan="3"><em>excursion to the <a href="https://www.dla-marbach.de/en">German Literature Archive</a>, Marbach</em></td>
+      <td colspan="3"><em>excursion to the <a href="https://www.dla-marbach.de/en">German Literature Archive</a>, Marbach</em><br/><strong>The excursion starts at 1pm</strong></td>
     </tr>
     <tr>
       <td>Friday</td>
