@@ -99,6 +99,12 @@ For editing Python files, participants will need a plain text editor. We recomme
 	- Resources used for feature extraction (sub directory `static`)
 - [List of implemented features](/assets/2019-09-06-reflected-text-analysis/feature-table.pdf)
 
+
+#### Friday
+- [Slides on Hackatorial evaluation](/assets/2019-09-06-reflected-text-analysis/Hackatorial_evaluation.pdf)
+- [Slides on what to do next](/assets/2019-09-06-reflected-text-analysis/Friday.pdf)
+
+
 ## Projects (for ECTS credit points)
 
 If you're interested in getting ECTS credit points for taking part in this class, you'll need to conduct a small project, according to the following recipe (unless we agreed on a different plan):
