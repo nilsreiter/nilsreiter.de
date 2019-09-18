@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflected Text Analysis beyond Linguistics
-show: true
+show: false
 redirect_from: refl2019
 ---
 
