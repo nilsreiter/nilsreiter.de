@@ -103,7 +103,11 @@ For editing Python files, participants will need a plain text editor. We recomme
 #### Friday
 - [Slides on Hackatorial evaluation](/assets/2019-09-06-reflected-text-analysis/Hackatorial_evaluation.pdf)
 - [Slides on what to do next](/assets/2019-09-06-reflected-text-analysis/Friday.pdf)
-
+- Hackatorial results
+	- [Bundestag](/assets/2019-09-06-reflected-text-analysis/bundestag.html)
+	- [Grimm](/assets/2019-09-06-reflected-text-analysis/grimm.html)
+	- [Parzival](/assets/2019-09-06-reflected-text-analysis/parzival.html)
+	- [Werther](/assets/2019-09-06-reflected-text-analysis/werther.html)
 
 ## Projects (for ECTS credit points)
 

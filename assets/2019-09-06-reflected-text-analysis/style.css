@@ -1,0 +1,36 @@
+body {
+	margin-left:auto;
+	margin-right:auto;
+	width:400px;
+}
+
+h1,h2,h3,div {
+	text-align:center;
+}
+
+* {
+	font-family: Univers, Helvetica, sans-serif; 
+}
+
+hr {
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+td {
+	text-align: right;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+   border-top: 1px solid black;
+   border-bottom: 1px solid black;
+   padding-top:5px;
+   padding-bottom:5px;
+   margin-left:15px;
+}
