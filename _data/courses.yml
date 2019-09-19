@@ -1,3 +1,37 @@
+- title: Interpretable Machine Learning
+  inst: cologne
+  date: Winter term 2019/20
+  program:
+  - M.A. Informationsverarbeitung
+  lang: de
+- title: Computational Literary Studies
+  inst: cologne
+  date: Winter term 2019/20
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+- title: Tools, Ressourcen, Infrastruktur
+  inst: cologne
+  date: Winter term 2019/20
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+- title: Einführung in die Informationsverarbeitung
+  inst: cologne
+  date: Winter term 2019/20
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+  with:
+  - Øyvind Eide
+- title: Softwaretechnologie für Fortgeschrittene
+  inst: cologne
+  date: Winter term 2019/20
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+  with:
+  - Øyvind Eide
 - title: Reflected Text Analysis beyond Linguistics
   venue:
     name: Computational Linguistics Fall School 2019
