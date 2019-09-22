@@ -6,7 +6,7 @@ author:
 - Marcus Willand
 - Evelyn Gius
 - Nils Reiter
-booktitle: "Abstracts of DHd: multimedial \& multimodal"
+booktitle: "Abstracts of DHd: multimedial und multimodal"
 location: "Frankfurt, Germany"
 year: 2019
 month: 3
