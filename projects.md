@@ -12,7 +12,7 @@ keywords:
 {% assign inst = site.data.locations[project.location] %}
 
 ### {{ project.title }}
-{{project.subtitle}} at [{{inst.name}}]({{inst.link}}), {{inst.country}}
+{{project.subtitle}} {% if project.location %}at [{{inst.name}}]({{inst.link}}), {{inst.country}}{% endif %}
 
 - Start: {{project.time}}{% if project.link %}
 - Homepage: [{{project.link}}]({{ project.link }}){%endif%}
