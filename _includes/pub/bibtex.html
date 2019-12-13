@@ -4,6 +4,7 @@
 {% endif %}{% if include.pub.author %}   Author = { {{ include.pub.author | join: " and " }} },
 {% endif %}{% if include.pub.editor %}   Editor = { {{ include.pub.editor | join: " and " }} },
 {% endif %}{% if include.pub.booktitle %}   Booktitle = {%raw%}{{{%endraw%}{{ include.pub.booktitle }}{%raw%}}}{%endraw%},
+{% endif %}{% if include.pub.issuetitle %}   Issuetitle = {%raw%}{{{%endraw%}{{ include.pub.issuetitle }}{%raw%}}}{%endraw%},
 {% endif %}{% if include.pub.pages %}   Pages = { {{ include.pub.pages }} },
 {% endif %}{% if include.pub.journal %}   Journal = { {{ include.pub.journal }} },
 {% endif %}{% if include.pub.volume %}   Volume = { {{ include.pub.volume }} },
