@@ -11,5 +11,4 @@ booktitle: "Abstracts of DHd"
 location: "Paderborn, Germany"
 year: 2020
 month: 3
-toappear: true
 ---
