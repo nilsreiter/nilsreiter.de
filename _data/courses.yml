@@ -1,3 +1,27 @@
+- title: Embeddings
+  inst: cologne
+  date: Summer term 2020
+  program:
+  - M.A. Informationsverarbeitung
+  lang: de
+- title: Semantic Role Labeling
+  inst: cologne
+  date: Summer term 2020
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+- title: Sprachverarbeitung
+  inst: cologne
+  date: Summer term 2020
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+- title: Quantitative Textanalyse mit R
+  inst: cologne
+  date: Summer term 2020
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
 - title: Interpretable Machine Learning
   inst: cologne
   date: Winter term 2019/20
