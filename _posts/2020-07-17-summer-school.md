@@ -1,6 +1,6 @@
 ---
 layout: post
-title: virtual summer school "Deep Learning for Language Analysis" 
+title: Virtual summer school "Deep Learning for Language Analysis" 
 show: true
 redirect_from: tadl2020
 ---
