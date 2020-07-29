@@ -1,9 +1,12 @@
 ---
 layout: pub
 type: incollection
-title: Anleitung zur Erstellung von Annotationsrichtlinien
+title: "Algorithmische Mikrolektüren philosophischer Texte"
 author:
+- Axel Pichler
+- André Blessing
 - Nils Reiter
+- Mirco Schönfeld
 booktitle: "Reflektierte Algorithmische Textanalyse. Interdisziplinäre(s) Arbeiten in der CRETA-Werkstatt"
 editor:
 - Nils Reiter
@@ -12,9 +15,8 @@ editor:
 address: Berlin
 publisher: De Gruyter
 year: 2020
-month: 7
-doi: 10.1515/9783110693973-009
-pages: 193-202
+doi: 10.1515/9783110693973-014
+pages: 327-372
 ---
 
 
