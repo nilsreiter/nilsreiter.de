@@ -4,6 +4,15 @@
   venue:
     label: Forschungsoberseminar Literaturwissenschaft & Linguistik
   institution: tuebingen
+- title: Quantitative Textanalyse in Dramen und sozialen Medien
+  date: 2020-08-20
+  lang: de
+  venue:
+    label: "Keynote zur summer school '„tl;dr" Too long; didn't read (?) – Große Textmengen computergestützt analysieren'"
+  institution:
+    name: Ruhr-Universität
+    city: Bochum
+    country: Germany
 - title: "Fan Fiction ‚lesen‘: von close zu distant reading"
   venue: 
     label: "Ringvorlesung Sprache verstehen -- Texte verstehen"
