@@ -2,7 +2,7 @@
 
 {% assign pubs = include.publications | where: "toappear", true %}
 
-{% if pubs.size > 0 %}
+{% if pubs.size > 100 %}
 
 <h2 style="margin-top:20px;">to appear</h2>
 {% for pub in pubs %}
