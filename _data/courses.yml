@@ -1,3 +1,43 @@
+- title: Einführung in die Informationsverarbeitung
+  inst: cologne
+  date: Winter term 2020/21
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+  with:
+  - Øyvind Eide
+- title: Softwaretechnologie für Fortgeschrittene
+  inst: cologne
+  date: Winter term 2020/21
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+  with:
+  - Øyvind Eide
+- title: Ü Machine learning mit Java, Weka und UIMA
+  inst: cologne
+  date: Summer term 2020
+  program:
+  - M.A. Informationsverarbeitung
+  lang: de
+- title: "HS Themen, topics und Motive: TDT, LDA & co."
+  inst: cologne
+  date: Summer term 2020
+  program:
+  - M.A. Informationsverarbeitung
+  lang: de
+- title: Ü Tools, Ressourcen, Infrastruktur
+  inst: cologne
+  date: Winter term 2020/21
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de  
+- title: HS Analyse sozialer Medien mit NLP-Methoden
+  inst: cologne
+  date: Winter term 2020/21
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de  
 - title: Embeddings
   inst: cologne
   date: Summer term 2020
