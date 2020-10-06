@@ -38,6 +38,14 @@
   program:
   - B.A. Informationsverarbeitung
   lang: de  
+- title: Text Analysis with Deep Learning
+  venue: 
+    name: "virtual summer school: Deep Learning for Language Analysis"
+    link: http://ml-school.uni-koeln.de/index.html
+  inst: cologne
+  date: August 31 - September 4, 2020
+  special: true
+  lang: en
 - title: Embeddings
   inst: cologne
   date: Summer term 2020
@@ -119,7 +127,6 @@
 - title: Learning Machine Learning
   venue:
     name: Late Summer School on Machine Learning for Language Analysis
-    link: http://ml-school.uni-koeln.de/index.html
   inst: cologne
   date: "September 26-27, 2018"
   lang: en
