@@ -37,7 +37,10 @@
   date: Winter term 2020/21
   program:
   - B.A. Informationsverarbeitung
-  lang: de  
+  lang: de
+  idh: https://lehre.idh.uni-koeln.de/lehrveranstaltungen/wisem20/hs-analyse-sozialer-medien-mit-nlp-methoden/
+  klips: https://klips2.uni-koeln.de/co/wbLv.wbShowLVDetail?pStpSpNr=284488
+  ilias: https://www.ilias.uni-koeln.de/ilias/goto_uk_crs_3523973.html
 - title: Text Analysis with Deep Learning
   venue: 
     name: "virtual summer school: Deep Learning for Language Analysis"

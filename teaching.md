@@ -22,7 +22,7 @@ title: Taught Courses and Tutorials
 
 {% for c in courses %}
 {% unless c.special %}
-- {{c.date}}: **{{ c.title }}** {% if c.program %}<br/>({{ c.program | join: ", " }}){% endif %}. {% if c.with %}Taught jointly with {{c.with | join: ", " }}.{% endif %}
+- {{c.date}}: **{{ c.title }}** {% if c.program %}<br/>({{ c.program | join: ", " }}){% endif %}. {% if c.with %}Taught jointly with {{c.with | join: ", " }}.{% endif %} {% if c.ilias %}<a href="{{c.ilias}}">ILIAS</a>. {% endif %} {% if c.klips %}<a href="{{c.klips}}">KLIPS</a>.{% endif %}
 {% endunless %}
 {% endfor %}
 
