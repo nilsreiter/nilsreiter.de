@@ -27,6 +27,10 @@ Workshop on the *Annotation of Coreference on Literary Texts*, joint workshop of
 
 ### LaTeCH
 
+[Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/latech-clfl-2020/) (organizer, with Stefania Degaetano-Ortlieb, Anna Kazantseva and Stan Szpakowicz), Barcelona, Spain (well, online), December 12, 2020
+
+[Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/latech-clfl-2019/) (organizer, with Beatrice Alex, Stefania Degaetano-Ortlieb, Anna Kazantseva and Stan Szpakowicz), Minneapolis, Minnesota, U.S.A., June 7, 2019
+
 [Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/latech-clfl-2018/) (organizer, with Beatrice Alex, Stefania Degaetano-Ortlieb, Anna Feldman, Anna Kazantseva and Stan Szpakowicz), Santa Fe, New Mexico, U.S.A., August 25, 2018
 
 [Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/latech-clfl-2017/) (organizer, with Beatrice Alex, Stefania Degaetano-Ortlieb, Anna Feldman, Anna Kazantseva and Stan Szpakowicz), Vancouver, Canada, August 4, 2017
