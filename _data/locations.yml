@@ -23,3 +23,7 @@ konstanz:
 göttingen:
   name: Göttingen University
   country: Germany
+cceh:
+  name: Cologne Center for eHumanities (CCeH)
+  country: Germany
+  link: https://cceh.uni-koeln.de

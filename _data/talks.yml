@@ -27,6 +27,12 @@
     name: COLING 2020
     city: virtual Barcelona
     country: Spain
+- title: "Center for Reflected Text Analytics (CRETA)"
+  date: 2020-11-30
+  lang: de
+  venue:
+    label: MonTalk
+  institution: cceh
 - title: "Praxisorientierte Einführung in die Quantitative Dramenanalyse"
   date: 2020-01-07
   lang: de
