@@ -5,6 +5,28 @@
     label: CCLS Lecture Series
     link: https://ccls.phil-fak.uni-koeln.de/lecture-series
   institution: cologne
+- title: "Interdisziplinär Arbeiten im Center for Reflected Text Analytics?"
+  date: 2020-12-10
+  lang: de
+  venue:
+    label: Digital*Humanities im Gespräch
+    link: https://www.fu-berlin.de/sites/dhc/programme/dh-gespraech/wi-se-20-211/index.html
+  institution:
+    name: Freie Universität Berlin
+    city: Berlin
+    country: Germany
+  with:
+  - Axel Pichler
+- title: "Beyond the Mold: New Paths for Annotation Science"
+  date: 2020-12-12
+  lang: en
+  venue:
+    label: "The 14th Linguistic Annotation Workshop"
+    link: https://sigann.github.io/LAW-XIV-2020/index.html
+  institution:
+    name: COLING 2020
+    city: virtual Barcelona
+    country: Spain
 - title: "Praxisorientierte Einführung in die Quantitative Dramenanalyse"
   date: 2020-01-07
   lang: de
