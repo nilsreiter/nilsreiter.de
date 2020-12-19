@@ -367,6 +367,14 @@ blockquote {
 				margin: auto;
 			}
 		}
+		svg {
+			margin-top: 10px;
+			margin-bottom: 10px;
+			@media screen and (max-width: $br) {
+				width: 100%;
+				margin: auto;
+			}
+		}
 		code {
 			padding: 3px;
 			font-size: 0.9em;
