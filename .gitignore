@@ -3,4 +3,3 @@ _site/
 .jekyll-metadata
 *.lock
 deploy_rsa
-deploy_rsa.pub
