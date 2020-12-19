@@ -82,6 +82,14 @@ p {
 		margin-right:10px;
 		float:left;
 	}
+	svg {
+		display:inline-block;
+		max-width:200px;
+		max-height:150px;
+		margin-bottom:10px;
+		margin-right:10px;
+		float:left;
+	}  
 }
 
 
@@ -143,6 +151,20 @@ ul {
 	}
 }
 
+svg.cretalogo path.col1 {
+  fill: #33353d;
+}
+
+svg.cretalogo path.col2 {
+  fill: #4cc5f3;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  svg.cretalogo path.col1 {
+    fill: #ededed;
+  }  
+}
 
 
 blockquote {
@@ -194,11 +216,6 @@ blockquote {
 		text-align: right;
 	}
 	
-	@media (prefers-color-scheme: dark) {
-		svg path.col1 {
-    			fill: #ededed;
-  		}  
-	}
 
 }
 
