@@ -193,6 +193,13 @@ blockquote {
 	.more {
 		text-align: right;
 	}
+	
+	@media (prefers-color-scheme: dark) {
+		svg path.col1 {
+    			fill: #ededed;
+  		}  
+	}
+
 }
 
 .header {
