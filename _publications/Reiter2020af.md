@@ -12,6 +12,7 @@ doi: 10.17175/2020_007
 journal: Zeitschrift für digitale Geisteswissenschaften
 month: 12
 language: de
+volume: 5
 ---
 
 ### Abstract
