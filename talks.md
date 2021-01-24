@@ -5,7 +5,7 @@ title: Talks
 
 ## Invited Talks
 
-{% assign talks = site.data.talks | group_by_exp: "item", "item.date | date: '%Y'" | sort: "item" %}
+{% assign talks = site.data.talks | group_by_exp: "item", "item.date | date: '%Y'" | sort: "name" | reverse %}
 
 {% for y in talks %} 
 
@@ -27,7 +27,7 @@ title: Talks
 
 ## Conference, Workshop, Symposium Talks (selected)
 
-{% assign talks = site.data.ctalks | group_by_exp: "item", "item.date | date: '%Y'" | sort: "item" %}
+{% assign talks = site.data.ctalks | group_by_exp: "item", "item.date | date: '%Y'" | sort: "name" | reverse %}
 
 
 {% for y in talks %} 
