@@ -1,3 +1,35 @@
+- title: Intertextualität maschinell erfassen – Chancen und Herausforderungen
+  date: 2021-02-18
+  venue: 
+    label: forTEXT workshop on Development and application of category systems for text research
+  institution:
+    name: Technische Universität Darmstadt
+    city: Darmstadt
+    country: Germany
+  with:
+  - Julia Nantke
+- title: "Gedichte aus dem Computer. Theo Lutz und die ›Stochastischen Texte‹"
+  date: 2021-01-27
+  lang: de
+  venue:
+    label: Colloquium in Digital Cultural Heritage
+    link: https://lehre.idh.uni-koeln.de/lehrveranstaltungen/wisem20/colloquium-in-digital-cultural-heritage/
+  institution: cologne
+- title: "Theo Lutz oder Die Erfindung der digitalen Poesie"
+  date: 2019-10-22
+  lang: de
+  venue:
+    label: Zeitkapsel 56
+    link: https://www.dla-marbach.de/kalender/detail/?tx_lombegoevent_pi1%5Bevent%5D=304&tx_lombegoevent_pi1%5Baction%5D=show&no_cache=1
+  institution:
+    name: Deutsches Literaturarchiv
+    city: Marback
+    country: Germany
+    link: https://www.dla-marbach.de
+  with:
+  - Toni Bernhart
+  - Claus-Michael Schlesinger
+  - Sandra Richter
 - title: "References to Fictional Entities: Annotation and (Automatic) Resolution of Coreference in Dramatic Texts"
   date: 2020-12-14
   lang: en
@@ -17,6 +49,7 @@
     country: Germany
   with:
   - Axel Pichler
+  note: "[Video](https://www.fu-berlin.de/sites/dhc/zVideothek/078-DH-Reiter-Pichler/index.html)"
 - title: "Beyond the Mold: New Paths for Annotation Science"
   date: 2020-12-12
   lang: en

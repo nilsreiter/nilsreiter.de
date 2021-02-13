@@ -17,6 +17,10 @@ I am initiator of a group that wants to establish shared tasks in the Digital Hu
 
 In June 2018, the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG) approved a [priority programme *Computational Literary Studies* (CLS)](https://dfg-spp-cls.github.io). The programme comprises funding for about 15 projects in this area. Together with Fotis Jannidis, Evelyn Gius, Jonas Kuhn, Christof Schöch and Simone Winko, I am one of the applicants for the programme and a member of the coordinating committee.
 
+## CRETA association
+
+In 2020, we have formed the CRETA association ("Verein" in German). I'm currently serving as head of the association. You can find more information on [the web page](https://cretaverein.de) (but mostly in German).
+
 ## Workshops
 
 (See [teaching](/teaching) for tutorials)
