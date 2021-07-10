@@ -1,3 +1,34 @@
+- title: HS Embeddings
+  inst: cologne
+  date: Summer term 2021
+  program:
+  - M.A. Informationsverarbeitung
+  lang: de
+- title: HS Computational Literary Studies
+  inst: cologne
+  date: Summer term 2021
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+- title: Ü Deep learning zur Textanalyse mit Python
+  inst: cologne
+  date: Summer term 2021
+  program:
+  - B.A. Informationsverarbeitung
+  - M.A. Linguistik
+  lang: de
+- title: VL Sprachverarbeitung
+  inst: cologne
+  date: Summer term 2021
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+- title: "Ü Die Pandemie in Sprache und Text - Corona-Podcasts & Co."
+  inst: cologne
+  date: Summer term 2021
+  program:
+  - M.A. Informationsverarbeitung
+  - M.A. Linguistik
 - title: Einführung in die Informationsverarbeitung
   inst: cologne
   date: Winter term 2020/21
@@ -18,13 +49,13 @@
   - Øyvind Eide
 - title: Ü Machine learning mit Java, Weka und UIMA
   inst: cologne
-  date: Summer term 2020
+  date: Winter term 2020/21
   program:
   - M.A. Informationsverarbeitung
   lang: de
 - title: "HS Themen, topics und Motive: TDT, LDA & co."
   inst: cologne
-  date: Summer term 2020
+  date: Winter term 2020/21
   program:
   - M.A. Informationsverarbeitung
   lang: de
