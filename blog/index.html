@@ -4,9 +4,9 @@ layout: default
 
 <div class="blog">
     {% for post in site.posts %}
-    <div class="teaser">
+    <div class="post">
         <span class="date">{{ post.date | date: "%B %e, %Y" }}</span> <h2>{{ post.title }}</h2>
-        <div class="excerpt">{{post.excerpt}}</div>
+        <p class="excerpt">{{post.excerpt}}</p>
         <div class="more">{% if post.external %}<a class="external" href="{{post.external}}">more</a>{% else %}<a href="{{post.url}}">more ...</a>{% endif %}</div>
     </div>
     {% endfor %}
