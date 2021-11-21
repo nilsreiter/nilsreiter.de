@@ -1,0 +1,13 @@
+---
+layout: page_with_menu
+title: "Publications from 2021"
+keywords:
+- publications
+menu: "pub/menu.html"
+---
+
+{% assign filtered_publications = site.publications | where:"year", "2021" %}
+
+{% include pub/filtered-collection.html publications=filtered_publications showYear=false %}
+
+
