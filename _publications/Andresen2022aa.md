@@ -12,5 +12,4 @@ booktitle: Book of Abstracts of DHd
 address: Potsdam, Germany
 month: 3
 lang: de
-toappear: true
 ---
