@@ -18,14 +18,14 @@ current:
     location: stuttgart
     funding: VolkswagenStiftung
     budget: 449.900
+completed:
   - title: CRETA
     subtitle: Center for Reflected Text Analytics
     link: http://www.creta.uni-stuttgart.de
     role: Coordinator (first phase), Co-PI (second phase)
-    time: "January 2016. Second phase: 2019"
+    time: "First phase: 2016-2018. Second phase: 2019-2021. Third phase: [CRETA e.V.](https://cretaverein.de), without funding"
     location: stuttgart
     funding: German Ministry for Education and Research
-completed:
   - title: Ontology modeling for ritual structure research
     subtitle: Sub project within collaborative research center (Sonderforschungsbereich) 619, *ritual dynamics*
     link: "http://ritualdynamik.de/index.php?id=39&L=0Tim"
