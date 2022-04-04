@@ -1,3 +1,63 @@
+- title: VL Sprachverarbeitung
+  inst: cologne
+  date: Summer term 2022
+  program:
+  - B.A. Informationsverarbeitung
+  - B.A. Linguistik & Phonetik 
+  lang: de
+- title: HS Embeddings
+  inst: cologne
+  date: Summer term 2022
+  program:
+  - M.A. Informationsverarbeitung
+  lang: de
+- title: Ü Reenactment Historischer Rechner
+  inst: cologne
+  date: Summer term 2022
+  program:
+  - M.A. Informationsverarbeitung
+  lang: de  
+- title: "S Softwaretechnologie: Java 2"
+  inst: cologne
+  date: Summer term 2022
+  program:
+  - B.A. Informationsverarbeitung
+- title: HS Experimentelles Arbeiten in der Sprachverarbeitung
+  inst: cologne
+  date: Winter term 2021/22
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de
+- title: VL Einführung in die Informationsverarbeitung
+  inst: cologne
+  date: Winter term 2020/22
+  program:
+  - B.A. Informationsverarbeitung
+  - B.A. Medieninformatik
+  lang: de
+  with:
+  - Øyvind Eide
+- title: Ü Tools, Ressourcen, Infrastruktur
+  inst: cologne
+  date: Winter term 2020/22
+  program:
+  - B.A. Informationsverarbeitung
+  lang: de  
+- title: VL Softwaretechnologie für Fortgeschrittene
+  inst: cologne
+  date: Winter term 2020/22
+  program:
+  - M.A. Informationsverarbeitung
+  - M.A. Medieninformatik
+  lang: de
+  with:
+  - Øyvind Eide
+- title: HS Sprachtechnologie für eine bessere Welt
+  inst: cologne
+  date: Winter term 2020/22
+  program:
+  - M.A. Informationsverarbeitung
+  lang: de
 - title: HS Embeddings
   inst: cologne
   date: Summer term 2021
@@ -34,7 +94,7 @@
   - Jürgen Hermes
   - Felix Rau
   - Lukas Mönch
-- title: Einführung in die Informationsverarbeitung
+- title: VL Einführung in die Informationsverarbeitung
   inst: cologne
   date: Winter term 2020/21
   program:
