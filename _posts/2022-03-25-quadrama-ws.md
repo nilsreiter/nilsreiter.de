@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call for Papers: Computational Drama Analysis: Achievements and Opportunities"
-show: true
+show: false
 external: https://quadrama.github.io/blog/2022/03/14/comp-drama-analysis-workshop
 ---
 
