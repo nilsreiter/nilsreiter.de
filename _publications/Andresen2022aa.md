@@ -12,4 +12,5 @@ booktitle: Book of Abstracts of DHd
 address: Potsdam, Germany
 month: 3
 lang: de
+doi: 10.5281/zenodo.6327912
 ---
