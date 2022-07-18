@@ -11,6 +11,6 @@ year: 2022
 booktitle: Book of Abstracts of DHd
 address: Potsdam, Germany
 month: 3
+doi: 10.5281/zenodo.6328007
 lang: de
-doi: 10.5281/zenodo.6328006
 ---
