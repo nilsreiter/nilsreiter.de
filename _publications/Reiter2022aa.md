@@ -14,6 +14,9 @@ pages: 3346-3353
 month: 6
 lang: en
 location: Marseille, France
+downloads:
+- desc: PDF
+  url: http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.357.pdf
 ---
 
 ### Abstract
