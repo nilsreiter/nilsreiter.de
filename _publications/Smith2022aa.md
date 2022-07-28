@@ -11,7 +11,6 @@ author:
 - Jan Peters
 year: 2022
 journal: medRxiv
-pages: 199-230
 volume: 2022.07.27.22277642
 doi: 10.1101/2022.07.27.22277642
 lang: en
