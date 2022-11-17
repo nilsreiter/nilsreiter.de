@@ -11,7 +11,7 @@ lang: de
 pages: 1-29
 volume: 15
 number: 1-2
-doi: 10.1515/jelt-2021-2008
+doi: 10.1515/jlt-2021-2008
 month: 11
 ---
 
