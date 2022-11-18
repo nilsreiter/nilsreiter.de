@@ -1,8 +1,8 @@
 ---
 layout: pub
-type: report
+type: techreport
 title: "Messverfahren zum Inter-annotator-agreement (IAA): Eine Übersicht"
-type: DARIAH-DE Working Papers
+institution: DARIAH-DE Working Papers
 doi: 10.47952/gro-publ-103
 author:
 - Nils Reiter
