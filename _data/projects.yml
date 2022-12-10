@@ -2,23 +2,31 @@ current:
   - title: "QuaDramA: Tracking Character Knowledge"
     role: Principal Investigator, together with [M. Willand](http://marcuswilland.de)
     link: https://quadrama.github.io
-    time: April 2020-March 2023
+    time: April 2020 – December 2023
     funding: Deutsche Forschungsgemeinschat (DFG)
+    location: cologne
+  - title: Informationsinfrastruktur (INF)
+    subtitle: Project witin collaborative research center (Sonderforschungsbereich) 1252, *Prominence in Language*
+    role: Principal Investigator, together with [N. Himmelmann](https://ifl.phil-fak.uni-koeln.de/prof-himmelmann)
+    time: July 2019 – June 2023
+    funding: Deutsche Forschungsgemeinschat (DFG)
+    location: cologne
+    link: https://sfb1252.uni-koeln.de/forschungsprojekte/inf-data-design-and-sustainability
   - title: "Merkmale ästhetischer Reflexionsfiguren: Systematische Annotation und quantitative Analyse"
-    subtitle: Sub project witin collaborative research center (Sonderforschungsbereich) 1391, *Andere Ästhetik*
+    subtitle: Project witin collaborative research center (Sonderforschungsbereich) 1391, *Andere Ästhetik*
     role: Principal Investigator, together with [A. Zirker](http://www.englit.uni-tuebingen.de/?page_id=102)
-    time: July 2019
+    time: July 2019 – June 2023
     funding: Deutsche Forschungsgemeinschat (DFG)
     location: tuebingen
+completed:
   - title: QuaDramA
     subtitle: Quantitative Drama Analytics
     link: https://quadrama.github.io
     role: Principal Investigator, together with [M. Willand](http://marcuswilland.de)
-    time: May 2017
+    time: May 2017 – September 2022
     location: stuttgart
     funding: VolkswagenStiftung
     budget: 449.900
-completed:
   - title: CRETA
     subtitle: Center for Reflected Text Analytics
     link: http://www.creta.uni-stuttgart.de
