@@ -1,7 +1,7 @@
 ---
 layout: pub
 type: preprint
-title: "Large-scale web scraping for problem gambling research: a case study of COVID-19 lockdown effects in Germany"
+title: "Large‑Scale Web Scraping for Problem Gambling Research: A Case Study of COVID‑19 Lockdown Effects in Germany"
 author:
 - Elke Smith
 - Simon Michalski
@@ -9,10 +9,9 @@ author:
 - Kai Kaspar
 - Nils Reiter
 - Jan Peters
-year: 2022
-journal: medRxiv
-volume: 2022.07.27.22277642
-doi: 10.1101/2022.07.27.22277642
+year: 2023
+journal: Journal of Gambling Studies
+doi: 10.1007/s10899-023-10187-1
 lang: en
-month: 8
+month: 1
 ---
