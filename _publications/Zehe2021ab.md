@@ -19,6 +19,9 @@ booktitle: "Proceedings of the Shared Task on Scene Segmentation"
 year: 2021
 month: 9
 lang: en
+downloads:
+- desc: PDF
+  url: https://ceur-ws.org/Vol-3001/paper1.pdf
 ---
 
 ### Abstract
