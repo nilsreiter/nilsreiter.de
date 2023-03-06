@@ -5,13 +5,15 @@ title: "What are they talking about? A Systematic Exploration of Theme Identific
 author:
 - Nils Reiter
 - Marcus Willand
-booktitle: "Digitale Literaturwissenschaft. DFG Symposion 2017"
-year: 2019
-month: 12
+booktitle: Digitale Literaturwissenschaft
+series: Germanistische Symposien
+year: 2023
+month: 3
 editor:
 - Fotis Jannidis
-publisher: Metzler
+publisher: J.B. Metzler
+address: Stuttgart
 lang: en
-toappear: true
+doi: 10.1007/978-3-476-05886-7_20
 ---
 
