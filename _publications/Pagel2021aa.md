@@ -9,6 +9,7 @@ location: "Punta Cana, Dominican Republic"
 month: 11
 booktitle: Proceedings of the Fourth Workshop on Computational Models of Reference, Anaphora and Coreference
 year: 2021
+doi: 10.18653/v1/2021.crac-1.4
 ---
 
 ## Abstract
