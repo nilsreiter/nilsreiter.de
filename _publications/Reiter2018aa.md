@@ -13,6 +13,7 @@ editor:
 - Fotis Jannidis
 publisher: J.B. Metzler
 address: Stuttgart
+pages: 473-508
 lang: en
 doi: 10.1007/978-3-476-05886-7_20
 ---
