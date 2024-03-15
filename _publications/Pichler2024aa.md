@@ -9,6 +9,5 @@ year: 2024
 booktitle: Book of Abstracts of DHd
 location: Passau, Germany
 month: 2
-toappear: true
 lang: de
 ---
