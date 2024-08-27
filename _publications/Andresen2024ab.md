@@ -6,7 +6,6 @@ editor:
 - Melanie Andresen
 - Nils Reiter
 year: 2024
-toappear: true
 publisher: De Gruyter
 doi: 10.1515/9783111071824
 ---

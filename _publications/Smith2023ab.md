@@ -1,6 +1,6 @@
 ---
 layout: pub
-type: preprint
+type: article
 title: "Large‑Scale Web Scraping for Problem Gambling Research: A Case Study of COVID‑19 Lockdown Effects in Germany"
 author:
 - Elke Smith
