@@ -16,6 +16,7 @@ layout: null
   date = { {{ t.date }} },
   {% if t.venue.label %}note = { {{ t.venue.label|replace: "&", "\\&" }} },{% endif %}
   type = { Talk },
+  keywords = { talk },
   location = { {{ inst.name|replace: "&", "\\&" }} }
 }
 
