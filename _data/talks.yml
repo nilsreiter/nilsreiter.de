@@ -1,3 +1,33 @@
+- title: Scientifically Using Large Language Models
+  date: 2024-08-29
+  venue:
+    label: Summer School in Biological Psychiatry
+  institution:
+    name: Universität zu Köln
+    city: Köln
+    country: Deutschland
+- title: Using LLMs in the Digital Humanities. Reflecting on my Inner Conflict(s)
+  date: 2024-06-04
+  venue: 
+    label: forText Lab
+  institution:
+    name: Technische Universität Darmstadt
+    city: Darmstadt
+    country: Germany
+- title: Quo Vadis, Computational Drama Analysis? Why we need to look at plot and why it could work
+  date: 2023-11-29
+  institution:
+    name: Université des Strasbourg
+    city: Strasbourg
+    country: France
+  venue: 
+    label: Workshop
+- title: Kreativität aus dem Computer? Über Mozart zu ChatGPT
+  date: 2023-06-29
+  institution:
+    name: Münchner Kreis
+    city: München
+    country: Germany
 - title: Intertextualität maschinell erfassen – Chancen und Herausforderungen
   date: 2021-02-18
   venue: 
