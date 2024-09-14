@@ -1,6 +1,6 @@
 ---
 layout: pub
-type: book
+type: proceedings
 title: Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature
 month: 8
 year: 2017

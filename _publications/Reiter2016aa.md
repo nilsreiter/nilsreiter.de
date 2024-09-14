@@ -1,6 +1,6 @@
 ---
 layout: pub
-type: book
+type: proceedings
 editor:
 - Nils Reiter
 - Beatrice Alex
