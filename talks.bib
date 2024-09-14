@@ -10,11 +10,11 @@ layout: null
 {% assign inst = t.institution %}
 {% endif %}
 
-@misc{ {{ "talk-" | append: t.date | slugify("ascii") }},
+@misc{ {{ "talk-" | append: t.date | slugify: "ascii" }},
   title = { {{ t.title }} },
   author = { {% for a in t.with %}{{a}} and {% endfor %}Nils Reiter },
   date = { {{ t.date }} },
-  {% if t.venue.label %}note = { {{ t.venue.label }} },{% endif %}
+  {% if t.venue.label %}note = { {{ t.venue.label|replace: "&", "\\&" }} },{% endif %}
   type = { Talk },
   location = { {{ inst.name }} }
 }
