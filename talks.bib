@@ -1,0 +1,22 @@
+---
+layout: null
+---
+
+{% for t in site.data.talks %}
+
+{% if site.data.locations[t.institution] %}
+{% assign inst = site.data.locations[t.institution] %}
+{% else %}
+{% assign inst = t.institution %}
+{% endif %}
+
+@misc{
+  title = { {{ t.title }} },
+  author = { {% for a in t.with %}{{a}} and {% endfor %}Nils Reiter },
+  date = { {{ t.date }} },
+  {% if t.venue.label %}note = { {{ t.venue.label }} },{% endif %}
+  type = { Talk },
+  location = { {{ inst.name }} }
+}
+
+{% endfor %}
