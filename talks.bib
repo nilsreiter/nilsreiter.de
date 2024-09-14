@@ -11,12 +11,12 @@ layout: null
 {% endif %}
 
 @misc{ {{ "talk-" | append: t.date | slugify: "ascii" }},
-  title = { {{ t.title }} },
+  title = { {{ t.title|replace: "&", "\\&" }} },
   author = { {% for a in t.with %}{{a}} and {% endfor %}Nils Reiter },
   date = { {{ t.date }} },
   {% if t.venue.label %}note = { {{ t.venue.label|replace: "&", "\\&" }} },{% endif %}
   type = { Talk },
-  location = { {{ inst.name }} }
+  location = { {{ inst.name }}|replace: "&", "\\&" }
 }
 
 {% endfor %}
