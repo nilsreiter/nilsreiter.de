@@ -1,3 +1,76 @@
+- title: VL Einführung in die Informationsverarbeitung
+  inst: cologne
+  date: Winter term 2023/24
+  program:
+    - B.A. Informationsverarbeitung
+    - B.A. Medieninformatik
+  with:
+    - Øyvind Eide
+- title: "VL Softwaretechnologie: Java 1"
+  inst: cologne
+  date: Winter term 2023/24
+  program:
+    - B.A. Informationsverarbeitung
+    - B.A. Medieninformatik
+- title: HS Die Digitale Gesellschaft
+  inst: cologne
+  date: Winter term 2023/24
+  program:
+    - M.A. Informationsverarbeitung
+    - M.Sc. Informatik
+    - M.A. Linguistik
+- title: HS Anwendungen der Computerlinguistik
+  inst: cologne
+  date: Winter term 2023/24
+  program:
+    - B.A. Informationsverarbeitung
+- title: VL+Ü Sprachverarbeitung
+  inst: cologne
+  date: Summer term 2023
+  program:
+    - B.A. Informationsverarbeitung
+- title: HS Rankingaufgaben in der Computerlinguistik
+  inst: cologne
+  date: Summer term 2023
+  program:
+    - B.A. Informationsverarbeitung
+- title: VL Fortgeschrittene Programmierung (Java 2)
+  inst: cologne
+  date: Summer term 2023
+  program:
+    - B.A. Informationsverarbeitung
+    - B.A. Medieninformatik
+- title: HS Experimentelles Arbeiten in der Sprachverarbeitung
+  inst: cologne
+  date: Winter term 2022/23
+  program:
+    - B.A. Informationsverarbeitung
+- title: VL Sprachliche Informationsverarbeitung
+  inst: cologne
+  date: Winter term 2022/23
+  program:
+    - M.A. Informationsverarbeitung
+- title: VL Einführung in die Informationsverarbeitung
+  inst: cologne
+  date: Winter term 2022/23
+  program:
+    - B.A. Informationsverarbeitung
+    - B.A. Medieninformatik
+  with:
+    - Øyvind Eide
+- title: HS Sprachtechnologie für eine bessere Welt
+  inst: cologne
+  date: Winter term 2022/23
+  program:
+    - M.A. Informationsverarbeitung
+    - M.A. Linguistik
+    - M.A. Medieninformatik
+- title: "VL Softwaretechnologie (Java 1)"
+  inst: cologne
+  date: Winter term 2022/23
+  program:
+    - B.A. Informationsverarbeitung
+    - B.A. Medieninformatik
 - title: VL Sprachverarbeitung
   inst: cologne
   date: Summer term 2022
