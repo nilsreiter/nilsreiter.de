@@ -16,7 +16,7 @@ Let's start with evidence that has been found either by accident or by very simp
 > 
 > Cancer vaccines and chemotherapy are two different approaches to treating cancer, and their effectiveness can vary depending on the type and stage of cancer, as well as individual patient factors. It is important to note that *as an Al language model*, I can provide a general perspective, but you should consult with medical professionals for personalized advice.
 
-Springer has taken it offline ([without any information](https://doi.org/10.1007/978-3-031-86185-7)), but [Amazon.de](https://www.amazon.de/Advanced-Nanovaccines-Cancer-Immunotherapy-Nanotechnology/dp/3031861841) still sells the 1-star-reviewed book for 171€. 
+Springer has taken it offline ([without any information, thus also 'breaking' the idea of DOIs](https://doi.org/10.1007/978-3-031-86185-7)), but [Amazon.de](https://www.amazon.de/Advanced-Nanovaccines-Cancer-Immunotherapy-Nanotechnology/dp/3031861841) still sells the 1-star-reviewed book for 171€. 
 
 In a similar vain (but about one year earlier), [Elen Le Foll](https://elenlefoll.eu), a colleague at the University of Cologne, [found a lot of articles on Google Scholar that contain phrases like "I am an AI language model".](https://fediscience.org/@ElenLeFoll/112101278590379648) -- and several other people joined in. Examples she reported on Mastodon are (as far as I can tell) from medicine, bio-science in general, and computer science.  [Some of the mentioned/linked articles have been transparently removed in the meantime](https://doi.org/10.1016/j.radcr.2024.02.037), [others have not](https://doi.org/10.1109/ICECA58529.2023.10395500).
 
