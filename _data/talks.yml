@@ -1,3 +1,19 @@
+- title: More Open Science is not always the same as better science
+  date: 2025-05-20
+  venue:
+    label: Lecture Series Data Science
+  institution:
+    name: Universität Bielefeld
+    city: Bielefeld
+    country: Germany
+- title: "Reproducibility when working with large language models: A hallucination?"
+  date: 2025-05-26
+  venue:
+    label: ReproducibiliTea in the HumaniTeas
+  institution:
+    name: Universität zu Köln
+    city: Köln
+    country: Germany
 - title: Scientifically Using Large Language Models
   date: 2024-08-29
   venue:

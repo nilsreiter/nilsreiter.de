@@ -1,4 +1,25 @@
 current:
+  - title: Prominence in Large Language Models (C11)
+    subtitle: Project witin collaborative research center (Sonderforschungsbereich) 1252, *Prominence in Language*
+    role: Principal Investigator
+    time: January 2025 – December 2029
+    funding: Deutsche Forschungsgemeinschat (DFG)
+    location: cologne
+    link: https://sfb1252.uni-koeln.de/en/projects/c11-prominence-in-large-language-models
+  - title: Data, Design and Sustainability (S)
+    subtitle: Project witin collaborative research center (Sonderforschungsbereich) 1252, *Prominence in Language*
+    role: Principal Investigator
+    time: January 2025 – December 2029
+    funding: Deutsche Forschungsgemeinschat (DFG)
+    location: cologne
+    link: https://sfb1252.uni-koeln.de/en/projects/s-data-design-and-sustainability
+  - title: "CompAnno"
+    role: Principal Investigator, together with Julia Nantke
+    time: September 2023 -- August 2026
+    funding: Deutsche Forschungsgemeinschat (DFG)
+    location: cologne
+    link: https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-CompAnno/
+completed:
   - title: "QuaDramA: Tracking Character Knowledge"
     role: Principal Investigator, together with [M. Willand](http://marcuswilland.de)
     link: https://quadrama.github.io
@@ -18,7 +39,6 @@ current:
     time: July 2019 – June 2023
     funding: Deutsche Forschungsgemeinschat (DFG)
     location: tuebingen
-completed:
   - title: QuaDramA
     subtitle: Quantitative Drama Analytics
     link: https://quadrama.github.io
