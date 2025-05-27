@@ -10,7 +10,12 @@ year: 2025
 booktitle: "Proceedings of the 9th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2025)"
 month: 5
 lang: en
-toappear: true
+downloads:
+- desc: ACL Anthology
+  url: https://aclanthology.org/2025.latechclfl-1.5/
+- desc: PDF
+  url: https://aclanthology.org/2025.latechclfl-1.5.pdf
+
 ---
 
 ### Abstract
