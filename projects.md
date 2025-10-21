@@ -19,6 +19,10 @@ keywords:
 - Role: {{project.role }}
 {% if project.funding %} - Funded by: {{ project.funding }}{% endif %}
 
+{% if project.note %}
+{{ project.note }}
+{% endif %}
+
 {% endfor %}
 
 
