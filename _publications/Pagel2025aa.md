@@ -9,6 +9,6 @@ year: 2025
 booktitle: "Proceedings of CHR"
 month: 12
 lang: en
-toappear: true
+doi: 10.63744/UkAh6gmT12av
 ---
 
